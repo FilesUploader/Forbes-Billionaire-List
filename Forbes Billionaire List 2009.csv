@@ -1,0 +1,794 @@
+Rank,Name,Wealth (in $1B USD),Country of Citizenship,Residence
+1,William Gates III,40,United States,United States
+2,Warren Buffett,37,United States,United States
+3,Carlos Slim Helu & family,35,Mexico,Mexico
+4,Lawrence Ellison,22.5,United States,United States
+5,Ingvar Kamprad & family,22,Sweden,Switzerland
+6,Karl Albrecht,21.5,Germany,Germany
+7,Mukesh Ambani,19.5,India,India
+8,Lakshmi Mittal,19.3,India,United Kingdom
+9,Theo Albrecht,18.8,Germany,Germany
+10,Amancio Ortega,18.3,Spain,Spain
+11,Jim Walton,17.8,United States,United States
+12,Alice Walton,17.6,United States,United States
+13,Christy Walton & family,17.6,United States,United States
+14,S Robson Walton,17.6,United States,United States
+15,Bernard Arnault,16.5,France,France
+16,Li Ka-shing,16.2,Hong Kong,Hong Kong
+17,Michael Bloomberg,16,United States,United States
+18,Stefan Persson,14.5,Sweden,Sweden
+19,Charles Koch,14,United States,United States
+20,David Koch,14,United States,United States
+21,Liliane Bettencourt,13.4,France,France
+22,Prince Alwaleed Bin Talal Alsaud,13.3,Saudi Arabia,Saudi Arabia
+23,Michael Otto & family,13.2,Germany,Germany
+24,David Thomson & family,13,Canada,Canada
+25,Michael Dell,12.3,United States,United States
+26,Donald Bren,12,United States,United States
+27,Sergey Brin,12,United States,United States
+28,Larry Page,12,United States,United States
+29,Steven Ballmer,11,United States,United States
+30,Gerald Cavendish Grosvenor & family,11,United Kingdom,United Kingdom
+31,George Soros,11,United States,United States
+32,Paul Allen,10.5,United States,United States
+33,Kwok family,10.5,Hong Kong,Hong Kong
+34,Anil Ambani,10.1,India,India
+35,Abigail Johnson,10,United States,United States
+36,Susanne Klatten,10,Germany,Germany
+37,Ronald Perelman,10,United States,United States
+38,Hans Rausing,10,Sweden,United Kingdom
+39,Birgit Rausing & family,9.9,Sweden,Switzerland
+40,Michele Ferrero & family,9.5,Italy,Monaco
+41,Mikhail Prokhorov,9.5,Russia,Russia
+42,Jack Taylor & family,9.5,United States,United States
+43,Mohammed Al Amoudi,9,Saudi Arabia,Saudi Arabia
+44,Anne Cox Chambers,9,United States,United States
+45,Carl Icahn,9,United States,United States
+46,George Kaiser,9,United States,United States
+47,Lee Shau Kee,9,Hong Kong,Hong Kong
+48,Forrest Mars Jr,9,United States,United States
+49,Jacqueline Mars,9,United States,United States
+50,John Mars,9,United States,United States
+51,Roman Abramovich,8.5,Russia,Russia
+52,Ernesto Bertarelli,8.2,Switzerland,Switzerland
+53,Philip Knight,8.2,United States,United States
+54,Nasser Al-Kharafi & family,8.1,Kuwait,Kuwait
+55,James Simons,8,United States,United States
+56,Alain & Gerard Wertheimer,8,France,n/a
+57,Abdul Aziz Al Ghurair & family,7.8,United Arab Emirates,United Arab Emirates
+58,Vagit Alekperov,7.8,Russia,Russia
+59,Sunil Mittal & family,7.7,India,India
+60,Francois Pinault & family,7.6,France,France
+61,Eike Batista,7.5,Brazil,Brazil
+62,Mohamed Bin Issa Al Jaber,7,Saudi Arabia,Saudi Arabia
+63,Maan Al-Sanea,7,Saudi Arabia,Saudi Arabia
+64,Edward Johnson III,7,United States,United States
+65,Ananda Krishnan,7,Malaysia,Malaysia
+66,Robert Kuok,7,Malaysia,Hong Kong
+67,Joseph Safra,7,Brazil,Brazil
+68,Jeffrey Bezos,6.8,United States,United States
+69,August von Finck,6.7,Germany,Switzerland
+70,Silvio Berlusconi & family,6.5,Italy,Italy
+71,Leonardo Del Vecchio,6.3,Italy,Italy
+72,Curt Engelhorn,6.3,Germany,Switzerland
+73,Mikhail Fridman,6.3,Russia,Russia
+74,Sulaiman Al Rajhi,6.2,Saudi Arabia,Saudi Arabia
+75,James Goodnight,6.1,United States,United States
+76,Iris Fontbona & family,6,Chile,Chile
+77,Petr Kellner,6,Czech Republic,Czech Republic
+78,John Kluge,6,United States,United States
+79,John Paulson,6,United States,United States
+80,Tadashi Yanai & family,6,Japan,Japan
+81,Dan Duncan,5.9,United States,United States
+82,Eliodoro Matte & family,5.9,Chile,Chile
+83,Alberto Bailleres & family,5.7,Mexico,Mexico
+84,Azim Premji,5.7,India,India
+85,Hansjorg Wyss,5.7,Switzerland,United States
+86,Shashi & Ravi Ruia,5.6,India,India
+87,Steven Cohen,5.5,United States,United States
+88,Ng Teng Fong & family,5.5,Singapore,Singapore
+89,Patrick Soon-Shiong,5.5,United States,United States
+90,Serge Dassault & family,5.4,France,France
+91,Erivan Haub & family,5.4,Germany,Germany
+92,Jorge Paulo Lemann,5.3,Brazil,Brazil
+93,Eli Broad,5.2,United States,United States
+94,Kunio Busujima & family,5.2,Japan,Japan
+95,Karl-Heinz Kipp,5.2,Germany,Switzerland
+96,Vladimir Lisin,5.2,Russia,Russia
+97,Reinhold Wurth,5.2,Germany,Germany
+98,Philip Anschutz,5,United States,United States
+99,Kirk Kerkorian,5,United States,United States
+100,Nicky Oppenheimer & family,5,South Africa,South Africa
+101,David & Simon Reuben,5,United Kingdom,United Kingdom
+102,Kushal Pal Singh,5,India,India
+103,Galen Weston & family,5,Canada,Canada
+104,Mansour bin Zayed Al Nahayan,4.9,United Arab Emirates,United Arab Emirates
+105,Philip & Cristina Green,4.8,United Kingdom,United Kingdom
+106,Antonia Johnson,4.8,Sweden,Sweden
+107,Klaus-Michael Kuhne,4.7,Germany,Switzerland
+108,Charlene de Carvalho-Heineken,4.6,Netherlands,United Kingdom
+109,Stefan Quandt,4.6,Germany,Germany
+110,Robert Bass,4.5,United States,United States
+111,David Geffen,4.5,United States,United States
+112,Graeme Hart,4.5,New Zealand,New Zealand
+113,James Kennedy,4.5,United States,United States
+114,Paul Milstein & family,4.5,United States,United States
+115,Blair Parry-Okeden,4.5,United States,Australia
+116,Henry Ross Perot Sr,4.5,United States,United States
+117,Hasso Plattner,4.5,Germany,Germany
+118,Hiroshi Yamauchi,4.5,Japan,Japan
+119,Alexander Abramov,4.4,Russia,Russia
+120,Richard DeVos,4.4,United States,United States
+121,Eric Schmidt,4.4,United States,United States
+122,Leonid Fedun,4.3,Russia,Russia
+123,Alexei Mordashov,4.3,Russia,Russia
+124,Kumar Birla,4.2,India,India
+125,Michael Kadoorie & family,4.2,Hong Kong,Hong Kong
+126,Akira Mori & family,4.2,Japan,Japan
+127,Robert Rowling,4.2,United States,United States
+128,Ricardo Salinas Pliego & family,4.2,Mexico,Mexico
+129,Dennis Washington,4.2,United States,United States
+130,Karl Wlaschek,4.2,Austria,Austria
+131,Johanna Quandt,4.1,Germany,Germany
+132,Leonard Blavatnik,4,United States,United Kingdom
+133,Cheng Yu-tung,4,Hong Kong,Hong Kong
+134,John Fredriksen,4,Cyprus,United Kingdom
+135,German Khan,4,Russia,Russia
+136,Joseph Lau,4,Hong Kong,Hong Kong
+137,Richard LeFrak & family,4,United States,United States
+138,John Menard Jr,4,United States,United States
+139,Rupert Murdoch,4,United States,United States
+140,Donald Newhouse,4,United States,United States
+141,Samuel Newhouse Jr,4,United States,United States
+142,Sammy Ofer & family,4,Israel,Monaco
+143,Ira Rennert,4,United States,United States
+144,Julio Mario Santo Domingo,4,Colombia,Colombia
+145,Leonard Stern,4,United States,United States
+146,Charles Ergen,3.9,United States,United States
+147,"James, Arthur & John Irving",3.9,Canada,Canada
+148,Harold Simmons,3.9,United States,United States
+149,Gustavo Cisneros & family,3.8,Venezuela,Venezuela
+150,Spiro Latsis & family,3.8,Greece,Switzerland
+151,Bernard Ecclestone & family,3.7,United Kingdom,United Kingdom
+152,Eitaro Itoyama,3.7,Japan,Japan
+153,Dietrich Mateschitz,3.7,Austria,Austria
+154,Masayoshi Son,3.7,Japan,Japan
+155,Chaleo Yoovidhya,3.7,Thailand,Thailand
+156,Pauline MacMillan Keinath,3.6,United States,United States
+157,Cargill MacMillan Jr,3.6,United States,United States
+158,Whitney MacMillan,3.6,United States,United States
+159,Pierre Omidyar,3.6,United States,United States
+160,Marion MacMillan Pictet,3.6,United States,Bermuda
+161,Anton Schlecker,3.6,Germany,Germany
+162,Andreas Strungmann,3.6,Germany,Germany
+163,Thomas Strungmann,3.6,Germany,Germany
+164,William Cook,3.5,United States,United States
+165,Oleg Deripaska,3.5,Russia,Russia
+166,Stanley Druckenmiller,3.5,United States,United States
+167,Harold Hamm,3.5,United States,United States
+168,Saleh Kamel,3.5,Saudi Arabia,Saudi Arabia
+169,Bruce Kovner,3.5,United States,United States
+170,Nobutada Saji & family,3.5,Japan,Japan
+171,Maria-Elisabeth & Georg Schaeffler,3.5,Germany,Germany
+172,Charles Schwab,3.5,United States,United States
+173,Stef Wertheimer & family,3.5,Israel,Israel
+174,Aloys Wobben,3.5,Germany,Germany
+175,Daniel Ziff,3.5,United States,United States
+176,Dirk Ziff,3.5,United States,United States
+177,Robert Ziff,3.5,United States,United States
+178,Sheldon Adelson,3.4,United States,United States
+179,Jeronimo Arango & family,3.4,Mexico,Mexico
+180,Heinz-Horst Deichmann,3.4,Germany,Germany
+181,Steven Jobs,3.4,United States,United States
+182,Hiroshi Mikitani,3.4,Japan,Japan
+183,Saleh Al Rajhi,3.3,Saudi Arabia,Saudi Arabia
+184,Americo Amorim,3.3,Portugal,Portugal
+185,Charles Cadogan & family,3.3,United Kingdom,United Kingdom
+186,Adi Godrej & family,3.3,India,India
+187,Iskander Makhmudov,3.3,Russia,Russia
+188,David Murdock,3.3,United States,United States
+189,Tsai Wan-Tsai & family,3.3,Taiwan,Taiwan
+190,Ty Warner,3.3,United States,United States
+191,Jean-Claude Decaux & family,3.2,France,France
+192,Boris Ivanishvili,3.2,Russia,Georgia
+193,Richard Kinder,3.2,United States,United States
+194,Theodore Lerner,3.2,United States,United States
+195,Stephen Ross,3.2,United States,United States
+196,Lester Crown & family,3.1,United States,United States
+197,Aloysio de Andrade Faria,3.1,Brazil,Brazil
+198,Stein Erik Hagen & family,3.1,Norway,Norway
+199,Bradley Hughes,3.1,United States,United States
+200,Suleiman Kerimov,3.1,Russia,Russia
+201,Alexei Kuzmichev,3.1,Russia,Russia
+202,Dmitry Rybolovlev,3.1,Russia,Russia
+203,John Sall,3.1,United States,United States
+204,Nassef Sawiris,3.1,Egypt,Egypt
+205,Majid Al Futtaim,3,United Arab Emirates,United Arab Emirates
+206,Ronald Burkle,3,United States,United States
+207,Robert Holding,3,United States,United States
+208,Heidi Horten,3,Austria,Austria
+209,Henry Kravis,3,United States,United States
+210,E Stanley Kroenke,3,United States,United States
+211,Lee Kun-Hee,3,South Korea,South Korea
+212,Liu Yongxing,3,China,China
+213,George Lucas,3,United States,United States
+214,Naguib Sawiris,3,Egypt,Egypt
+215,Dilip Shanghvi,3,India,India
+216,John Sobrato & family,3,United States,United States
+217,Steven Spielberg,3,United States,United States
+218,Dorothea Steinbruch & family,3,Brazil,Brazil
+219,Heinz Hermann Thiele & family,3,Germany,Germany
+220,Samuel Zell,3,United States,United States
+221,Micky Arison,2.9,United States,United States
+222,Bahaa Hariri,2.9,Switzerland,Switzerland
+223,Husnu Ozyegin,2.9,Turkey,Turkey
+224,Saif Al Ghurair & family,2.8,United Arab Emirates,United Arab Emirates
+225,Giorgio Armani,2.8,Italy,Italy
+226,Antonio Ermirio de Moraes & family,2.8,Brazil,Brazil
+227,Simon Halabi,2.8,United Kingdom,United Kingdom
+228,Michael Herz,2.8,Germany,Germany
+229,Wolfgang Herz,2.8,Germany,Germany
+230,Paul Tudor Jones II,2.8,United States,United States
+231,Mehmet Emin Karamehmet,2.8,Turkey,Turkey
+232,Ralph Lauren,2.8,United States,United States
+233,Hermann Schnabel,2.8,Germany,Germany
+234,Shari Arison,2.7,Israel,Israel
+235,John Arnold,2.7,United States,United States
+236,Martin & Olivier Bouygues,2.7,France,France
+237,Walter Haefner,2.7,Switzerland,Switzerland
+238,Otto Happel,2.7,Germany,Switzerland
+239,Savitri Jindal,2.7,India,India
+240,Lee Shin Cheng,2.7,Malaysia,Malaysia
+241,Frank Lowy & family,2.7,Australia,Australia
+242,Thomas Schmidheiny,2.7,Switzerland,Switzerland
+243,Henry Sy & family,2.7,Philippines,Philippines
+244,Oprah Winfrey,2.7,United States,United States
+245,Zhang Jindong,2.7,China,China
+246,Otto Beisheim,2.6,Germany,Switzerland
+247,Paul Desmarais,2.6,Canada,Canada
+248,Barbara Piasecka Johnson,2.6,United States,Monaco
+249,Ann Walton Kroenke,2.6,United States,United States
+250,German Larrea Mota Velasco & family,2.6,Mexico,Mexico
+251,Sergio Mantegazza,2.6,Switzerland,Switzerland
+252,Rosalia Mera,2.6,Spain,Spain
+253,Gordon Moore,2.6,United States,United States
+254,Victor Pinchuk,2.6,Ukraine,Ukraine
+255,George Roberts,2.6,United States,United States
+256,Michael & Rainer Schmidt-Ruthenbeck,2.6,Germany,Germany
+257,Malvinder & Shivinder Singh,2.6,India,India
+258,Tsai Eng Meng,2.6,Taiwan,Taiwan
+259,Peter Woo & family,2.6,Hong Kong,Hong Kong
+260,Zhou Chengjian & family,2.6,China,China
+261,Riley Bechtel,2.5,United States,United States
+262,Stephen Bechtel Jr,2.5,United States,United States
+263,Richard Branson,2.5,United Kingdom,United Kingdom
+264,Edgar Bronfman Sr,2.5,United States,United States
+265,Ray Dalio,2.5,United States,United States
+266,Aliko Dangote,2.5,Nigeria,Nigeria
+267,John Paul DeJoria,2.5,United States,United States
+268,Ray Lee Hunt,2.5,United States,United States
+269,Charles Johnson,2.5,United States,United States
+270,Guy Laliberte,2.5,Canada,Canada
+271,Joseph Lewis,2.5,United Kingdom,Bahamas
+272,Liu Yonghao,2.5,China,China
+273,Pallonji Mistry,2.5,Ireland,India
+274,Reinhard Mohn & family,2.5,Germany,Germany
+275,James Packer,2.5,Australia,Australia
+276,Viktor Rashnikov,2.5,Russia,Russia
+277,Haim Saban,2.5,United States,United States
+278,Stephan Schmidheiny,2.5,Switzerland,Switzerland
+279,Stephen Schwarzman,2.5,United States,United States
+280,Bernard (Barry) Sherman,2.5,Canada,Canada
+281,David Sun,2.5,United States,United States
+282,Takemitsu Takizaki,2.5,Japan,Japan
+283,Teh Hong Piow,2.5,Malaysia,Malaysia
+284,John Tu,2.5,United States,United States
+285,Bernard Broermann,2.4,Germany,Germany
+286,Clive Calder,2.4,United Kingdom,Cayman Islands
+287,Albert Frere,2.4,Belgium,Belgium
+288,Alain Merieux & family,2.4,France,France
+289,Leonid Mikhelson,2.4,Russia,Russia
+290,Sergei Popov,2.4,Russia,Russia
+291,Luis Carlos Sarmiento,2.4,Colombia,Colombia
+292,Glen Taylor,2.4,United States,United States
+293,Marcel Herrmann Telles,2.4,Brazil,Brazil
+294,Joan Tisch,2.4,United States,United States
+295,William Wrigley Jr,2.4,United States,United States
+296,Isak Andic,2.3,Spain,Spain
+297,Mark Cuban,2.3,United States,United States
+298,Ray Dolby,2.3,United States,United States
+299,John Dorrance III,2.3,Ireland,Ireland
+300,Philip Falcone,2.3,United States,United States
+301,Nancy Walton Laurie,2.3,United States,United States
+302,Mitchell Rales,2.3,United States,United States
+303,Richard Schulze,2.3,United States,United States
+304,Yang Huiyan,2.3,China,China
+305,Pierre Bellon & family,2.2,France,France
+306,Charles Butt & family,2.2,United States,United States
+307,Malcolm Glazer & family,2.2,United States,United States
+308,Laurence Graff,2.2,United Kingdom,Switzerland
+309,Masatoshi Ito,2.2,Japan,Japan
+310,James Jannard,2.2,United States,United States
+311,Rupert Johnson Jr,2.2,United States,United States
+312,Patrick McGovern,2.2,United States,United States
+313,Denis O'Brien,2.2,Ireland,Ireland
+314,A Jerrold Perenchio,2.2,United States,United States
+315,David Rockefeller Sr,2.2,United States,United States
+316,Steven Udvar-Hazy,2.2,United States,United States
+317,Michael Ying,2.2,Hong Kong,Hong Kong
+318,David Azrieli & family,2.1,Canada,Canada
+319,William Davidson,2.1,United States,United States
+320,Henry Hillman,2.1,United States,United States
+321,Alicia Koplowitz,2.1,Spain,Spain
+322,Kjeld Kirk Kristiansen,2.1,Denmark,Denmark
+323,Mary Alice Dorrance Malone,2.1,United States,United States
+324,Masahiro Miki,2.1,Japan,Japan
+325,Robert Miller,2.1,Canada,Canada
+326,Jim Pattison,2.1,Canada,Canada
+327,Vladimir Potanin,2.1,Russia,Russia
+328,Steven Rales,2.1,United States,United States
+329,G M Rao,2.1,India,India
+330,Moise Safra,2.1,Brazil,Brazil
+331,Carlos Alberto Sicupira,2.1,Brazil,Brazil
+332,Charoen Sirivadhanabhakdi,2.1,Thailand,Thailand
+333,Albert von Thurn und Taxis,2.1,Germany,Germany
+334,Sulaiman Algosaibi,2,Saudi Arabia,Saudi Arabia
+335,Pyotr Aven,2,Russia,Russia
+336,David & Frederick Barclay,2,United Kingdom,United Kingdom
+337,Lee Bass,2,United States,United States
+338,Sid Bass,2,United States,United States
+339,Khalid Bin Mahfouz & family,2,Saudi Arabia,Saudi Arabia
+340,John de Mol,2,Netherlands,Netherlands
+341,Gordon Getty,2,United States,United States
+342,Tom Gores,2,United States,United States
+343,Terry Gou,2,Taiwan,Taiwan
+344,Nicolas Hayek,2,Switzerland,Switzerland
+345,Diane Hendricks,2,United States,United States
+346,Daniela Herz,2,Germany,Germany
+347,Gunter Herz,2,Germany,Germany
+348,William Hilton,2,United States,United States
+349,H Wayne Huizenga,2,United States,United States
+350,Mohammed Ibrahim,2,United Kingdom,United Kingdom
+351,Micky Jagtiani,2,India,United Arab Emirates
+352,Peter Kellogg,2,United States,United States
+353,Edward Lampert,2,United States,United States
+354,Leonard Lauder,2,United States,United States
+355,Ronald Lauder,2,United States,United States
+356,James Leprino,2,United States,United States
+357,Wallace McCain,2,Canada,Canada
+358,Frederik GH Meijer & family,2,United States,United States
+359,Lorenzo Mendoza & family,2,Venezuela,Venezuela
+360,Najib Mikati,2,Lebanon,Lebanon
+361,Taha Mikati,2,Lebanon,Lebanon
+362,Arnon Milchan,2,Israel,Israel
+363,Michael Milken,2,United States,United States
+364,Daniel Och,2,United States,United States
+365,Liselott Persson,2,Sweden,Sweden
+366,T Boone Pickens,2,United States,United States
+367,Richard Rainwater,2,United States,United States
+368,Phillip Ruffin,2,United States,United States
+369,Alexandra Schorghuber,2,Germany,Germany
+370,Shen Wenrong,2,China,China
+371,Sheldon Solow,2,United States,United States
+372,Beny Steinmetz,2,Israel,Israel
+373,Ronda Stryker,2,United States,United States
+374,Olav Thon,2,Norway,Norway
+375,Bruce Wasserstein,2,United States,United States
+376,Vladimir Bogdanov,1.9,Russia,Russia
+377,Bennett Dorrance,1.9,United States,United States
+378,Archie Aldis "Red" Emmerson,1.9,United States,United States
+379,Andrew Forrest,1.9,Australia,Australia
+380,William Gross,1.9,United States,United States
+381,Mikhail Gutseriev,1.9,Russia,United Kingdom
+382,Amos Hostetter Jr,1.9,United States,United States
+383,Michael Jaharis,1.9,United States,United States
+384,H Fisk Johnson,1.9,United States,United States
+385,Imogene Powers Johnson,1.9,United States,United States
+386,S Curtis Johnson,1.9,United States,United States
+387,Helen Johnson-Leipold,1.9,United States,United States
+388,Winnie Johnson-Marquart,1.9,United States,United States
+389,Manuel Jove,1.9,Spain,Spain
+390,George Mitchell,1.9,United States,United States
+391,Quek Leng Chan,1.9,Malaysia,Malaysia
+392,Gina Rinehart,1.9,Australia,Australia
+393,Robert E "Ted" Turner,1.9,United States,United States
+394,Eugen Viehof & family,1.9,Germany,Germany
+395,Wee Cho Yaw & family,1.9,Singapore,Singapore
+396,Zong Qinghou,1.9,China,China
+397,Gautam Adani,1.8,India,India
+398,Rinat Akhmetov,1.8,Ukraine,Ukraine
+399,Abdulla Al Futtaim,1.8,United Arab Emirates,United Arab Emirates
+400,Mohammed Al Issa,1.8,Saudi Arabia,Saudi Arabia
+401,Abdullah Al Rajhi,1.8,Saudi Arabia,Saudi Arabia
+402,John Anderson,1.8,United States,United States
+403,Nadhmi Auchi,1.8,United Kingdom,United Kingdom
+404,Nicolas Berggruen,1.8,United States,United States
+405,Charles Bronfman,1.8,Canada,Canada
+406,Chen Din Hwa,1.8,Hong Kong,Hong Kong
+407,Philippe Foriel-Destezet,1.8,France,United Kingdom
+408,Alexander Frolov,1.8,Russia,Russia
+409,Frits Goldschmeding,1.8,Netherlands,Netherlands
+410,David Gottesman,1.8,United States,United States
+411,He Xiangjian & family,1.8,China,China
+412,Martha Ingram & family,1.8,United States,United States
+413,Jess Jackson,1.8,United States,United States
+414,Indu Jain,1.8,India,India
+415,Mike Lazaridis,1.8,Canada,Canada
+416,Fredrik Lundberg,1.8,Sweden,Sweden
+417,Dinu Patriciu,1.8,Romania,Romania
+418,Gregorio Perez Companc & family,1.8,Argentina,Argentina
+419,Florentino Perez,1.8,Spain,Spain
+420,Stewart Rahr,1.8,United States,United States
+421,Robert Rich Jr,1.8,United States,United States
+422,Edward Roski Jr,1.8,United States,United States
+423,Dieter Schnabel,1.8,Germany,Germany
+424,Jeffrey Skoll,1.8,Canada,United States
+425,John Sperling,1.8,United States,United States
+426,Sylvia Stroher,1.8,Germany,Germany
+427,Nikolai Tsvetkov,1.8,Russia,Russia
+428,Viktor Vekselberg,1.8,Russia,Russia
+429,Yeoh Tiong Lay & family,1.8,Malaysia,Malaysia
+430,Leonore Annenberg,1.7,United States,United States
+431,James Balsillie,1.7,Canada,Canada
+432,Frank Batten Sr,1.7,United States,United States
+433,Hubert Burda,1.7,Germany,Germany
+434,Alan Casden,1.7,United States,United States
+435,John Catsimatidis,1.7,United States,United States
+436,Charles Dolan & family,1.7,United States,United States
+437,Thomas Frist Jr & family,1.7,United States,United States
+438,Phillip Frost,1.7,United States,United States
+439,William Fung,1.7,Hong Kong,Hong Kong
+440,Michael Hartono,1.7,Indonesia,Indonesia
+441,R Budi Hartono,1.7,Indonesia,Indonesia
+442,William Randolph Hearst III,1.7,United States,United States
+443,Esther Koplowitz,1.7,Spain,Spain
+444,Shiv Nadar,1.7,India,India
+445,Axel Oberwelland,1.7,Germany,Germany
+446,Peter Peterson,1.7,United States,United States
+447,Onsi Sawiris,1.7,Egypt,Egypt
+448,Leslie Wexner,1.7,United States,United States
+449,Dean White,1.7,United States,United States
+450,Peter Buck,1.6,United States,United States
+451,John Caudwell,1.6,United Kingdom,United Kingdom
+452,Jim Davis & family,1.6,United States,United States
+453,Fred DeLuca,1.6,United States,United States
+454,Victor Fung,1.6,United States,Hong Kong
+455,Hui Wing Mau,1.6,Hong Kong,Hong Kong
+456,Barry Lam,1.6,Taiwan,Taiwan
+457,Richard Peery,1.6,United States,United States
+458,Stefano Pessina,1.6,Italy,Monaco
+459,Bruno Schroder & family,1.6,United Kingdom,United Kingdom
+460,Walter Scott Jr,1.6,United States,United States
+461,David Shaw,1.6,United States,United States
+462,Friede Springer,1.6,Germany,Germany
+463,Sukanto Tanoto,1.6,Indonesia,Singapore
+464,Sarik Tara,1.6,Turkey,Turkey
+465,Donald Trump,1.6,United States,United States
+466,Alisher Usmanov,1.6,Russia,Russia
+467,Zhang Xin & family,1.6,China,China
+468,Ali Ibrahim Agaoglu,1.5,Turkey,Turkey
+469,Anil Agarwal,1.5,India,United Kingdom
+470,Dennis Albaugh,1.5,United States,United States
+471,John Arrillaga,1.5,United States,United States
+472,Louis Bacon,1.5,United States,United Kingdom
+473,Edward Bass,1.5,United States,United States
+474,Carlo Benetton,1.5,Italy,Italy
+475,Gilberto Benetton,1.5,Italy,Italy
+476,Giuliana Benetton,1.5,Italy,Italy
+477,Luciano Benetton,1.5,Italy,Italy
+478,Neil Bluhm,1.5,United States,United States
+479,Chen Fashu,1.5,China,China
+480,Chu Lam Yiu,1.5,Hong Kong,Hong Kong
+481,Chung Mong-Koo,1.5,South Korea,South Korea
+482,Dermot Desmond,1.5,Ireland,Ireland
+483,Abilio dos Santos Diniz,1.5,Brazil,Brazil
+484,Israel Englander,1.5,United States,United States
+485,Thomas Friedkin,1.5,United States,United States
+486,Rolf Gerling,1.5,Germany,Switzerland
+487,Kenneth Griffin,1.5,United States,United States
+488,Timothy Headington,1.5,United States,United States
+489,Hans-Werner Hector,1.5,Germany,Germany
+490,Jeffrey Hildebrand,1.5,United States,United States
+491,Joseph Jamail Jr,1.5,United States,United States
+492,Ryoichi Jinnai,1.5,Japan,Japan
+493,Daryl Katz,1.5,Canada,Canada
+494,Brad Kelley,1.5,United States,United States
+495,Randal Kirk,1.5,United States,United States
+496,William Koch,1.5,United States,United States
+497,Robert Kraft,1.5,United States,United States
+498,Lev Leviev,1.5,Israel,United Kingdom
+499,Liang Wengen,1.5,China,China
+500,Lu Zhiqiang,1.5,China,China
+501,John Malone,1.5,United States,United States
+502,Clayton Mathile,1.5,United States,United States
+503,Mario Moretti Polegato,1.5,Italy,Italy
+504,Henry Ross Perot Jr,1.5,United States,United States
+505,Cyrus Poonawalla,1.5,India,India
+506,Richard Pratt,1.5,Australia,Australia
+507,Sean Quinn & family,1.5,Ireland,Ireland
+508,Trevor Rees-Jones,1.5,United States,United States
+509,Marc Rich,1.5,United States,Switzerland
+510,Kjell Inge Rokke,1.5,Norway,Norway
+511,Donald Schneider,1.5,United States,United States
+512,Shi Yuzhu,1.5,China,China
+513,Thomas Siebel,1.5,United States,United States
+514,Jerry Speyer,1.5,United States,United States
+515,Katsumi Tada,1.5,Japan,Japan
+516,Harry Triguboff,1.5,Australia,Australia
+517,Klaus Tschira,1.5,Germany,Germany
+518,John Whittaker,1.5,United Kingdom,United Kingdom
+519,Stephen Wynn,1.5,United States,United States
+520,Zhou Furen & family,1.5,China,China
+521,Mortimer Zuckerman,1.5,United States,United States
+522,S Daniel Abraham,1.4,United States,United States
+523,Francesco Gaetano Caltagirone,1.4,Italy,Italy
+524,Leon Charney,1.4,United States,United States
+525,William Conway Jr,1.4,United States,United States
+526,Phoebe Hearst Cooke,1.4,United States,United States
+527,Daniel D'Aniello,1.4,United States,United States
+528,Richard Desmond,1.4,United Kingdom,United Kingdom
+529,Ennio Doris & family,1.4,Italy,Italy
+530,Soichiro Fukutake,1.4,Japan,Japan
+531,Saad Hariri,1.4,Saudi Arabia,Saudi Arabia
+532,Austin Hearst,1.4,United States,United States
+533,David Hearst Jr,1.4,United States,United States
+534,George Hearst Jr,1.4,United States,United States
+535,Michael Heisley Sr,1.4,United States,United States
+536,Stanley Stub Hubbard,1.4,United States,United States
+537,Michael Ilitch,1.4,United States,United States
+538,Omid Kordestani,1.4,United States,United States
+539,Thomas Lee,1.4,United States,United States
+540,George Lindemann & family,1.4,United States,United States
+541,Carl Lindner Jr & family,1.4,United States,United States
+542,Ma Huateng,1.4,China,China
+543,Margaret Magerko,1.4,United States,United States
+544,Alfred Mann,1.4,United States,United States
+545,Billy Joe "Red" McCombs,1.4,United States,United States
+546,Drayton McLane Jr,1.4,United States,United States
+547,Charles Munger,1.4,United States,United States
+548,Igor Olenicoff,1.4,United States,United States
+549,David Rich,1.4,United States,United States
+550,Hans Riegel,1.4,Germany,Germany
+551,Paul Riegel,1.4,Germany,Germany
+552,David Rubenstein,1.4,United States,United States
+553,Tamir Sapir,1.4,United States,United States
+554,Martua Sitorus,1.4,Indonesia,Singapore
+555,Peter Sperling,1.4,United States,United States
+556,Lucio Tan & family,1.4,Philippines,Philippines
+557,Albert Ueltschi,1.4,United States,United States
+558,Andreas von Bechtolsheim,1.4,Germany,United States
+559,George Argyros,1.3,United States,United States
+560,Jose Maria Aristrain,1.3,Spain,Spain
+561,Carl Berg,1.3,United States,United States
+562,Thomas Bruch,1.3,Germany,Germany
+563,Austen Cargill II,1.3,United States,United States
+564,James Cargill II,1.3,United States,United States
+565,Mary Janet Cargill,1.3,United States,United States
+566,Dhanin Chearavanont,1.3,Thailand,Thailand
+567,Chung Mong-Joon,1.3,South Korea,South Korea
+568,Gustaf Douglas,1.3,Sweden,Sweden
+569,Gerald J Ford,1.3,United States,United States
+570,B Thomas Golisano,1.3,United States,United States
+571,Alec Gores,1.3,United States,United States
+572,Jeffrey Greene,1.3,United States,United States
+573,Irwin Jacobs,1.3,United States,United States
+574,Jeremy Jacobs Sr,1.3,United States,United States
+575,Jerral Jones,1.3,United States,United States
+576,Herbert Kohler Jr & family,1.3,United States,United States
+577,Marianne Liebmann,1.3,United States,United States
+578,Lu Guanqiu,1.3,China,China
+579,Craig McCaw,1.3,United States,United States
+580,Gary Michelson,1.3,United States,United States
+581,Patrice Motsepe,1.3,South Africa,South Africa
+582,Michael Price,1.3,United States,United States
+583,Thomas Pritzker,1.3,United States,United States
+584,Raj Rajaratnam,1.3,United States,United States
+585,Julian Robertson Jr,1.3,United States,United States
+586,Wilbur Ross Jr,1.3,United States,United States
+587,Patrick Ryan,1.3,United States,United States
+588,Henry Samueli,1.3,United States,United States
+589,Emanuele (Lino) Saputo,1.3,Canada,Canada
+590,Eduard Shifrin,1.3,United Kingdom,United Kingdom
+591,Alexander Shnaider,1.3,Canada,Canada
+592,Melvin Simon,1.3,United States,United States
+593,Frederick Smith,1.3,United States,United States
+594,Helmut Sohmen,1.3,Austria,Hong Kong
+595,George Steinbrenner III,1.3,United States,United States
+596,Jon Stryker,1.3,United States,United States
+597,Yitzhak Tshuva,1.3,Israel,Israel
+598,Todd Wagner,1.3,United States,United States
+599,Wang Chuanfu,1.3,China,China
+600,Ahmet Nazif Zorlu,1.3,Turkey,Turkey
+601,Mohamed Al-Bahar,1.2,Kuwait,Kuwait
+602,Edmund Ansin,1.2,United States,United States
+603,Stephen Bisciotti,1.2,United States,United States
+604,Arthur Blank,1.2,United States,United States
+605,Norman Braman,1.2,United States,United States
+606,Charles Brandes,1.2,United States,United States
+607,Patokh Chodiev,1.2,Belgium,Kazakhstan
+608,Alfred James Clark,1.2,United States,United States
+609,William Connor II,1.2,United States,Hong Kong
+610,L John Doerr,1.2,United States,United States
+611,David Filo,1.2,United States,United States
+612,John Fisher,1.2,United States,United States
+613,Barbara Carlson Gage & family,1.2,United States,United States
+614,Pincus Green,1.2,United States,Israel
+615,Roberto Hernandez Ramirez,1.2,Mexico,Mexico
+616,Ingeburg Herz,1.2,Germany,Germany
+617,Alijan Ibragimov,1.2,Kazakhstan,Kazakhstan
+618,Stephen Jarislowsky,1.2,Canada,Canada
+619,Ihor Kolomoyskyy,1.2,Ukraine,Ukraine
+620,Uday Kotak,1.2,India,India
+621,Michael Krasny,1.2,United States,United States
+622,Guilherme Peirao Leal,1.2,Brazil,Brazil
+623,Li Sze Lim,1.2,Hong Kong,China
+624,Vincent Lo,1.2,Hong Kong,Hong Kong
+625,Alexander Machkevich,1.2,Israel,Kazakhstan
+626,Stephen Mandel Jr,1.2,United States,United States
+627,Kalanithi Maran,1.2,India,India
+628,Bernard Marcus,1.2,United States,United States
+629,Robert McNair,1.2,United States,United States
+630,Marilyn Carlson Nelson & family,1.2,United States,United States
+631,Henry Nicholas III,1.2,United States,United States
+632,Femi Otedola,1.2,Nigeria,Nigeria
+633,Anthony Pritzker,1.2,United States,United States
+634,Jay Robert (JB) Pritzker,1.2,United States,United States
+635,Chandru Raheja,1.2,India,India
+636,Johann Rupert & family,1.2,South Africa,South Africa
+637,Lynn Schusterman,1.2,United States,United States
+638,Antonio Luiz Seabra,1.2,Brazil,United Kingdom
+639,Kavitark Ram Shriram,1.2,United States,United States
+640,Pat Stryker,1.2,United States,United States
+641,David Tepper,1.2,United States,United States
+642,Wilma Tisch,1.2,United States,United States
+643,Peter Unger,1.2,Germany,Germany
+644,Vladimir Yevtushenkov,1.2,Russia,Russia
+645,Zhang Li,1.2,China,China
+646,Zhang Zhixiang,1.2,China,China
+647,Kenneth Adams Jr,1.1,United States,United States
+648,Khalaf Al Habtoor,1.1,United Arab Emirates,United Arab Emirates
+649,Mohammed Al Rajhi,1.1,Saudi Arabia,Saudi Arabia
+650,Alberto Alcocer,1.1,Spain,Spain
+651,Bassam Alghanim,1.1,Kuwait,Kuwait
+652,Kutayba Alghanim,1.1,Kuwait,Kuwait
+653,Michael Ashley,1.1,United Kingdom,United Kingdom
+654,Leon Black,1.1,United States,United States
+655,Henadiy Boholyubov,1.1,Ukraine,Ukraine
+656,Emilio Botin,1.1,Spain,Spain
+657,Julio Bozano,1.1,Brazil,Brazil
+658,Subhash Chandra,1.1,India,India
+659,David Cheriton,1.1,Canada,United States
+660,Alberto Cortina,1.1,Spain,Spain
+661,William Ding,1.1,China,China
+662,Dou Zhenggang,1.1,China,China
+663,Kenneth Fisher,1.1,United States,United States
+664,John Gandel,1.1,Australia,Australia
+665,Alan Gerry,1.1,United States,United States
+666,Christopher Goldsbury,1.1,United States,United States
+667,David Green,1.1,United States,United States
+668,Albert Gubay,1.1,United Kingdom,United Kingdom
+669,Guo Guangchang,1.1,China,China
+670,Mubariz Gurbanoglu,1.1,Turkey,Turkey
+671,Marguerite Harbert,1.1,United States,United States
+672,Aymin Hariri,1.1,Saudi Arabia,Saudi Arabia
+673,Fahd Hariri,1.1,Lebanon,France
+674,John Henry,1.1,United States,United States
+675,Huang Wei & family,1.1,China,China
+676,James Irsay,1.1,United States,United States
+677,Vinod Khosla,1.1,United States,United States
+678,Marc Lasry,1.1,United States,United States
+679,Richard Li,1.1,Hong Kong,Hong Kong
+680,Joseph Mansueto,1.1,United States,United States
+681,Anne Windfohr Marion,1.1,United States,United States
+682,William Moncrief Jr,1.1,United States,United States
+683,John Morgridge,1.1,United States,United States
+684,Shigenobu Nagamori,1.1,Japan,Japan
+685,Kerr Neilson,1.1,Australia,Australia
+686,Or Wai Sheun,1.1,Hong Kong,Hong Kong
+687,Nelson Peltz,1.1,United States,United States
+688,Penny Pritzker,1.1,United States,United States
+689,Ferit Sahenk,1.1,Turkey,Turkey
+690,Richard Scaife,1.1,United States,United States
+691,Roustam Tariko,1.1,Russia,Russia
+692,Murat Ulker,1.1,Turkey,Turkey
+693,Hope Hill van Beuren,1.1,United States,United States
+694,Murat Vargi,1.1,Turkey,Turkey
+695,Martin Viessmann,1.1,Germany,Germany
+696,Dieter von Holtzbrinck,1.1,Germany,Germany
+697,Charlotte Colket Weber,1.1,United States,United States
+698,Margaret Whitman,1.1,United States,United States
+699,Jerry Yang,1.1,United States,United States
+700,Zhang Guiping & family,1.1,China,China
+701,John Abele,1,United States,United States
+702,Emilio Azcarraga Jean,1,Mexico,Mexico
+703,Bakhytbek Baiseitov,1,Kazakhstan,Kazakhstan
+704,Enrique Banuelos,1,Spain,Spain
+705,Ron Baron,1,United States,United States
+706,Thomas Barrack,1,United States,United States
+707,Heinz Bauer,1,Germany,Germany
+708,Jose Berardo,1,Portugal,Portugal
+709,Boris Berezovsky,1,Russia,United Kingdom
+710,Bjorgolfur Thor Bjorgolfsson,1,Iceland,United Kingdom
+711,David Bonderman,1,United States,United States
+712,Ahmet Calik,1,Turkey,Turkey
+713,Christopher Chandler,1,New Zealand,New Zealand
+714,Richard Chandler,1,New Zealand,New Zealand
+715,Cho Tak Wong,1,Hong Kong,China
+716,Scott Cook,1,United States,United States
+717,Leon G Cooperman,1,United States,United States
+718,Bharat Desai & family,1,United States,United States
+719,Anurag Dikshit,1,India,Gibraltar
+720,Barry Diller,1,United States,United States
+721,James Dinan,1,United States,United States
+722,Du Shuanghua,1,China,China
+723,Glenn Dubin,1,United States,United States
+724,David Duffield,1,United States,United States
+725,James Dyson,1,United Kingdom,United Kingdom
+726,John Edson,1,United States,United States
+727,Richard Egan,1,United States,United States
+728,Michael Federmann & family,1,Israel,Israel
+729,Robert Fisher,1,United States,United States
+730,Theodore Forstmann,1,United States,United States
+731,Lindsay Fox,1,Australia,Australia
+732,James France,1,United States,United States
+733,Jean-Claude Gandur,1,Switzerland,United Kingdom
+734,Joaquin Guzman Loera,1,Mexico,Mexico
+735,Dorrance Hamilton,1,United States,United States
+736,Han Chang-Woo & family,1,Japan,Japan
+737,Alfredo Harp Helu & family,1,Mexico,Mexico
+738,Thomas Hicks,1,United States,United States
+739,Stanley Ho,1,Hong Kong,Hong Kong
+740,Huang Rulun,1,China,China
+741,Morris Kahn,1,Israel,Israel
+742,Nasser Khalili,1,United Kingdom,United Kingdom
+743,Lev Kvetnoi,1,Russia,Russia
+744,Leslie Lampton,1,United States,United States
+745,Lee Myung-Hee,1,South Korea,South Korea
+746,Michael Lee-Chin,1,Canada,Canada
+747,Lin Rong San,1,Taiwan,Taiwan
+748,Friedhelm Loh,1,Germany,Germany
+749,Niels Peter Louis-Hansen,1,Denmark,Denmark
+750,Jeffrey Lurie,1,United States,United States
+751,William Macaulay,1,United States,United States
+752,Andrey Melnichenko,1,Russia,Russia
+753,Minoru Mori,1,Japan,Japan
+754,Manuel Moroun,1,United States,United States
+755,Kenneth Morrison,1,United Kingdom,United Kingdom
+756,Tuncay Ozilhan,1,Turkey,Turkey
+757,Sebastian Pinera,1,Chile,Chile
+758,Daniel Pritzker,1,United States,United States
+759,James Pritzker,1,United States,United States
+760,Jean (Gigi) Pritzker,1,United States,United States
+761,John Pritzker,1,United States,United States
+762,Karen Pritzker,1,United States,United States
+763,Linda Pritzker,1,United States,United States
+764,Sumner Redstone,1,United States,United States
+765,Leandro Rizzuto,1,United States,United States
+766,Alexander Rovt,1,United States,United States
+767,Joanne (JK) Rowling,1,United Kingdom,Scotland
+768,Lily Safra,1,Monaco,United Kingdom
+769,Filiz Sahenk,1,Turkey,Turkey
+770,David Sainsbury,1,United Kingdom,United Kingdom
+771,Thomas Sandell,1,Sweden,United States
+772,T Denny Sanford,1,United States,United States
+773,Madeleine Schickedanz,1,Germany,Switzerland
+774,Monika Schoeller,1,Germany,Germany
+775,Thomas Secunda,1,United States,United States
+776,Walter Shorenstein & family,1,United States,United States
+777,Evgeny (Eugene) Shvidler,1,United States,United Kingdom
+778,Daniel Snyder,1,United States,United States
+779,Zygmunt Solorz-Zak,1,Poland,Poland
+780,Peter Sondakh,1,Indonesia,Indonesia
+781,Alexander Spanos & family,1,United States,United States
+782,Kerry Stokes,1,Australia,Australia
+783,Sun Guangxin,1,China,China
+784,Henry Swieca,1,United States,United States
+785,Tang Yiu & family,1,Hong Kong,Hong Kong
+786,A Alfred Taubman,1,United States,United States
+787,Kenny Troutt,1,United States,United States
+788,Stefan von Holtzbrinck,1,Germany,Germany
+789,Theodore Waitt,1,United States,United States
+790,Arne Wilhelmsen & family,1,Norway,Norway
+791,Kamil Yazici,1,Turkey,Turkey
+792,Zhu Yicai,1,China,China
+793,Igor Zyuzin,1,Russia,Russia

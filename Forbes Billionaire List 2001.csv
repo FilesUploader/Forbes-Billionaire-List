@@ -1,0 +1,539 @@
+Rank,Name,Wealth (in $1B USD),Country of Citizenship
+1,"Gates, William H. III",58.7,United States
+2,"Buffett, Warren Edward",32.3,United States
+3,"Allen, Paul Gardner",30.4,United States
+4,"Ellison, Lawrence Joseph",26,United States
+5,"Albrecht, Theo & Karl",25,Germany
+6,"Alsaud, Prince Alwaleed Bin Talal",20,Saudi Arabia
+7,"Walton, Jim C.",18.8,United States
+8,"Walton, John T.",18.7,United States
+9,"Walton, S. Robson",18.6,United States
+10,"Walton, Alice L.",18.5,United States
+11,"Walton, Helen R.",18.5,United States
+12,"Quandt, Johanna & family",17.8,Germany
+13,"Ballmer, Steven Anthony",16.6,United States
+14,"Thomson, Kenneth & family",16.4,Canada
+15,"Bettencourt, Liliane",15.6,France
+16,"Anschutz, Philip F.",15.3,United States
+17,"Kamprad, Ingvar",13,Sweden
+18,Li Ka-shing,12.6,Hong Kong
+19,"Redstone, Sumner M.",12.6,United States
+20,"Kirch, Leo",12,Germany
+21,"Anthony, Barbara Cox",11.7,United States
+22,"Chambers, Anne Cox",11.7,United States
+23,"Kwok brothers, Walter, Thomas, Raymond",11.5,Hong Kong
+24,"Kluge, John Werner",10.9,United States
+25,"Slim Helú, Carlos",10.8,Mexico
+26,"Arnault, Bernard",10.7,France
+27,"Bertarelli, Ernesto & family",10.5,Switzerland
+28,"Dell, Michael",10.5,United States
+29,"Berlusconi, Silvio",10.3,Italy
+30,"Johnson, Abigail",9.1,United States
+31,"Mars, Forrest Edward Jr.",9,United States
+32,"Mars, Jacqueline Badger",9,United States
+33,"Mars, John Franklyn",9,United States
+34,"Rausing, Kirsten & family",9,Sweden
+35,"Ergen, Charles",8.8,United States
+36,"Turner, Robert E. (Ted)",8.8,United States
+37,"Takei, Yasuo & family",8.3,Japan
+38,"Olayan, Suliman",8,Saudi Arabia
+39,"Murdoch, Keith Rupert",7.8,United States
+40,"Rausing, Hans",7.7,Sweden
+41,"Saji, Nobutada & family",7.7,Japan
+42,"Premji, Azim & family",6.9,India
+43,"Del Vecchio, Leonardo",6.6,Italy
+44,"Ortega, Amancio",6.6,Spain
+45,"Grosvenor, Gerald Cavendish",6.5,United Kingdom
+46,"Kerkorian, Kirk",6.4,United States
+47,"Pinault, Francois",6.3,France
+48,"Schwab, Charles R.",6.3,United States
+49,"Landolt, Pierre & family",6.1,Switzerland
+50,"Al-Kharafi, Nasser & family",6,Kuwait
+51,"Soros, George",6,United States
+52,Lee Shau Kee,5.9,Hong Kong
+53,"Broad, Eli",5.8,United States
+54,"Goodnight, James",5.7,United States
+55,"Kinoshita, Kyosuke & family",5.6,Japan
+56,"Son, Masayoshi",5.6,Japan
+57,"Benetton, Luciano & family",5.5,Italy
+58,"Pritzker, Robert Alan",5.5,United States
+59,"Pritzker, Thomas J.",5.5,United States
+60,"Curt, Engelhorn",5.4,Germany
+61,"Halley, Paul-Louis & family",5.4,France
+62,"Moore, Gordon Earle",5.4,United States
+63,"Plattner, Hasso",5.4,Germany
+64,"Cisneros, Gustavo & family",5.3,Venezuela
+65,"Flick, Friedrich Karl Jr.",5.3,Germany
+66,"Haefner, Walter",5.3,Switzerland
+67,"Persson, Stefan",5.3,Sweden
+68,"Fukuda, Yoshitaka",5.2,Japan
+69,"Lerner, Alfred",5.1,United States
+70,"Newhouse, Donald Edward",5,United States
+71,"Newhouse, Samuel Irving Jr.",5,United States
+72,"Otto, Michael & family",5,Germany
+73,"von Finck, August",5,Germany
+74,"Wertheimer, Alain & Gerard",5,France
+75,"Dassault, Serge & family",4.9,France
+76,"Herz, Günter & family",4.8,Germany
+77,"Yanai, Tadashi",4.8,Japan
+78,"Gerling, Rolf",4.7,Germany
+79,"Johnson, Edward Crosby III",4.6,United States
+80,"Latsis, Spiros & family",4.6,Greece
+81,"von Holtzbrinck, Dieter & family",4.6,Germany
+82,"Bloomberg, Michael Rubens",4.5,United States
+83,"Davis, Marvin H.",4.5,United States
+84,"Ito, Masatoshi",4.5,Japan
+85,"Johnson, Samuel Curtis",4.5,United States
+86,"Mendoza, Lorenzo & family",4.5,Venezuela
+87,"Mohn, Reinhard",4.5,Germany
+88,"Omidyar, Pierre M.",4.5,United States
+89,"Oppenheimer, Nicky & family",4.5,South Africa
+90,"Irving, James, Arthur & John",4.4,Canada
+91,"Oetker, Rudolf & family",4.4,Germany
+92,"Bass, Lee Marshall",4.3,United States
+93,"Greenberg, Maurice Raymond",4.3,United States
+94,"Knight, Philip H.",4.3,United States
+95,"Iwasaki, Fukuzo",4.2,Japan
+96,"Arison, Micky",4.1,United States
+97,"Wang, Patrick",4.1,Hong Kong
+98,"Annenberg, Walter Hubert",4,United States
+99,"Bren, Donald L.",4,United States
+100,"Haub, Erivan & family",4,Germany
+101,"Heineken, Alfred",4,Netherlands
+102,"Warner, H. Ty",4,United States
+103,"Weston, Galen & family",4,Canada
+104,"Bass, Sid Richardson",3.8,United States
+105,"Huntsman, Jon Meade",3.8,United States
+106,"Lauder, Leonard Alan",3.8,United States
+107,"Perot, Henry Ross",3.8,United States
+108,Tsai Wan-lin & family,3.8,Taiwan
+109,"Arison Dorsman, Shari",3.7,Israel
+110,"Icahn, Carl",3.7,United States
+111,"Karamehmet, Mehmet & family",3.7,Turkey
+112,"Kuok, Robert",3.7,Malaysia
+113,"Sidhu, Sanjiv",3.7,United States
+114,"Wang, Nina",3.7,Hong Kong
+115,"Simplot, John R.",3.6,United States
+116,"Ermirio de Moraes, José & Antonio",3.5,Brazil
+117,"Hayek, Nicolas",3.5,Switzerland
+118,"McCaw, Craig O.",3.5,United States
+119,Ng Teng Fong & family,3.5,Singapore
+120,"Okada, Kazuo",3.5,Japan
+121,"Sabançi, Sakip & family",3.5,Turkey
+122,"Schmidheiny, Stephan",3.5,Switzerland
+123,"Worth, Reinhold",3.5,Germany
+124,"Ambani, Dhirubhai & family",3.4,India
+125,"Bronfman, Charles R.",3.4,Canada
+126,"Geffen, David",3.4,United States
+127,"Kroenke, Ann Walton",3.4,United States
+128,"Louis-Dreyfus, Gerard & family",3.4,France
+129,"Sorenson, James L.",3.4,United States
+130,"Bronfman, Edgar M. Sr.",3.3,United States
+131,"Ebner, Martin",3.3,Switzerland
+132,"Hostetter, Amos Barr Jr.",3.3,United States
+133,"Itoyama, Eitaro",3.3,Japan
+134,"Jinnai, Ryoichi",3.3,Japan
+135,"Marcus, Bernard",3.3,United States
+136,"Mori, Akira",3.3,Japan
+137,"Perelman, Ronald Owen",3.3,United States
+138,"Fisher, Donald George",3.2,United States
+139,"Fisher, Doris Feigenbaum",3.2,United States
+140,"Foriel-Destezet, Phillipe",3.2,France
+141,"Kipp, Karl-Heinz",3.2,Germany
+142,"Koch, Charles De Ganahl",3.2,United States
+143,"Koch, David Hamilton",3.2,United States
+144,"Lauder, Ronald Steven",3.2,United States
+145,"Tisch, Preston Robert",3.2,United States
+146,"Agnelli, Giovanni & family",3.1,Italy
+147,"Al-Hariri, Rafik & family",3.1,Lebanon
+148,"Crown, Lester & family",3.1,United States
+149,"Doris, Ennio",3.1,Italy
+150,"Wrigley, William Jr.",3.1,United States
+151,"Azcárraga Jean, Emilio",3,Mexico
+152,"Bass, Robert Muse",3,United States
+153,"Bechtel, Riley P.",3,United States
+154,"Bechtel, Stephen Davison Jr.",3,United States
+155,"Hillman, Henry Lea",3,United States
+156,"Jameel, Mohammed & family",3,Saudi Arabia
+157,"Kamel, Saleh",3,Saudi Arabia
+158,Khoo Teck Puat,3,Singapore
+159,"Lucas, George",3,United States
+160,"Perrenchio, Andrew Jerrold",3,United States
+161,"Salinas Pliego, Ricardo & family",3,Mexico
+162,"Hopp, Dietmar & family",2.9,Germany
+163,"Safra, Joseph & Moise",2.9,Brazil
+164,"Wexner, Leslie Herbert",2.9,United States
+165,"Yamauchi, Hiroshi",2.9,Japan
+166,"Zambrano, Lorenzo & family",2.9,Mexico
+167,"Dolan, Charles Francis",2.8,United States
+168,"Faria, Aloysio de Andrade",2.8,Brazil
+169,"Jacobs, Klaus",2.8,Switzerland
+170,"Sall, John",2.8,United States
+171,"Taylor, Jack Crawford",2.8,United States
+172,"Tsutsumi, Yoshiaki",2.8,Japan
+173,"Udvar-Hazy, Steven Ferencz",2.8,United States
+174,Cheng Yu-tung,2.7,Hong Kong
+175,"Lefrak, Samuel Jayson",2.7,United States
+176,"Schroder, Bruno",2.7,United Kingdom
+177,"Skoll, Jeff",2.7,Canada
+178,"Wang, Y.C.",2.7,Taiwan
+179,"Fujita, Den",2.6,Japan
+180,"Schmidheiny, Thomas",2.6,Switzerland
+181,"Tschira, Klaus",2.6,Germany
+182,"Beisheim, Otto",2.5,Germany
+183,"Ecclestone, Bernard",2.5,United Kingdom
+184,"Garza Lagüera, Eugenio & family",2.5,Mexico
+185,"Gerry, Alan",2.5,United States
+186,"Koç, Rahmi & family",2.5,Turkey
+187,"Kroc, Joan Beverly & family",2.5,United States
+188,"Malone, John C.",2.5,United States
+189,"Packer, Kerry",2.5,Australia
+190,"Rockefeller, David Sr.",2.5,United States
+191,"Rowling, Robert",2.5,United States
+192,"Schmidt-Ruthenbeck, Rainer & Michael",2.5,Germany
+193,"Takizaki, Takemitsu",2.5,Japan
+194,"Khodorkovsky, Mikhail",2.4,Russia
+195,"Nicholas, Henry T.",2.4,United States
+196,"Stern, Leonard Norman",2.4,United States
+197,"Tisch, Laurence Alan",2.4,United States
+198,"Bosch, Robert Jr. & family",2.3,Germany
+199,"Bouygues, Martin & family",2.3,France
+200,"Buffett, Susan Thompson",2.3,United States
+201,"Davidson, William Morse",2.3,United States
+202,"Getty, Gordon Peter",2.3,United States
+203,"Hunt, Ray Lee",2.3,United States
+204,"Kaiser, George B.",2.3,United States
+205,"Kuo, Terry",2.3,Taiwan
+206,"Lauren, Ralph",2.3,United States
+207,"Samueli, Henry",2.3,United States
+208,"Schulze, Richard M.",2.3,United States
+209,"Decaux, Jean-Claude",2.2,France
+210,"Duffield, David A.",2.2,United States
+211,"Huizenga, H. Wayne",2.2,United States
+212,"Ingram, Martha Robinson Rivers",2.2,United States
+213,"Johnson, Barbara Piasecka",2.2,United States
+214,"Kim, James",2.2,United States
+215,"Laurie, Nancy Walton",2.2,United States
+216,"Lowy, Frank",2.2,Australia
+217,"Møller, Maersk Mc-Kinney",2.2,Denmark
+218,"Nadar, Shiv",2.2,India
+219,"Sherman, Bernard (Barry)",2.2,Canada
+220,"Siebel, Thomas M.",2.2,United States
+221,"Yoshida, Tadahiro",2.2,Japan
+222,"Al Rajhi, Sulaiman bin Abdul Aziz",2.1,Saudi Arabia
+223,"Dorrance, John T. III",2.1,Ireland
+224,"Gonda, Louis L.",2.1,United States
+225,"Johnson, Charles Bartlett",2.1,United States
+226,"Littlefield, Edmund Wattis",2.1,United States
+227,"Mantegazza, Sergio",2.1,Switzerland
+228,"Maramotti, Achille",2.1,Italy
+229,"Merckle, Adolf",2.1,Germany
+230,"Ofer, Sammy & Yuli",2.1,Israel
+231,"Spielberg, Steven Allen",2.1,United States
+232,"Stempel, Ernest E.",2.1,Bermuda
+233,"Swire, Adrian & family",2.1,United Kingdom
+234,"Bezos, Jeffrey P.",2,United States
+235,"Burda, Hubert",2,Germany
+236,"Champalimaud, Antonio",2,Portugal
+237,"Egan, Richard J.",2,United States
+238,"Gaylord, Edward Lewis",2,United States
+239,"Kellogg, Peter R.",2,United States
+240,"Li, Richard",2,Hong Kong
+241,"Mann, Hugo & family",2,Germany
+242,"McGovern, Patrick Joseph",2,United States
+243,"Menard, John R. Jr.",2,United States
+244,"Morgridge, John P.",2,United States
+245,"Naify, Robert Allen",2,United States
+246,"Sahenk, Ferit & family",2,Turkey
+247,"Sarofim, Fayez Shalaby",2,United States
+248,"Thyssen-Bornemisza, Georg",2,Switzerland
+249,"Waitt, Theodore W.",2,United States
+250,"Winnick, Gary",2,United States
+251,"Al Ghurair, Abdul Aziz",1.9,United Arab Emirates
+252,"Bailleres, Alberto",1.9,Mexico
+253,"Bin Mahfouz, Khalid",1.9,Saudi Arabia
+254,"Blank, Arthur M.",1.9,United States
+255,"Bulgari, Paolo & family",1.9,Italy
+256,"Fisher, Robert J.",1.9,United States
+257,"Hargreaves, John & family",1.9,United Kingdom
+258,"Helmsley, Leona",1.9,United States
+259,"Jahr, John & family",1.9,Germany
+260,"Krasny, Michael",1.9,United States
+261,"Kristiansen, Kjeld Kirk",1.9,Denmark
+262,"Matthews, Terry",1.9,Canada
+263,"Mays, L. Lowry",1.9,United States
+264,"Morita, Masao & family",1.9,Japan
+265,"Nambu, Yasuyuki",1.9,Japan
+266,"Otsuka, Akihiko & family",1.9,Japan
+267,"Pattison, Jim",1.9,Canada
+268,"Rainwater, Richard Edward",1.9,United States
+269,"Schörghuber, Stefan",1.9,Germany
+270,"Taylor, Glen",1.9,United States
+271,"Zell, Samuel",1.9,United States
+272,"Abraham, S. Daniel",1.8,United States
+273,"Allen, Herbert A. Jr.",1.8,United States
+274,"Aramburuzabala, Maria Asunción & family",1.8,Mexico
+275,"Arango, Jerónimo",1.8,Mexico
+276,"Bozano, Julio",1.8,Brazil
+277,"Branson, Richard",1.8,United Kingdom
+278,"Burkle, Ronald",1.8,United States
+279,"Butt, Charles C.",1.8,United States
+280,"Farmer, Richard T.",1.8,United States
+281,"Fisher, John J.",1.8,United States
+282,"Golisano, Blase Thomas",1.8,United States
+283,"Gonda, Leslie L.",1.8,United States
+284,"Hall, Donald Joyce",1.8,United States
+285,"Jacobs, Irwin Mark",1.8,United States
+286,"Mabuchi, Kenichi & family",1.8,Japan
+287,"Malone, Mary Alice Dorrance",1.8,United States
+288,"March, Juan & Carlos",1.8,Spain
+289,"Mittal, Lakshmi",1.8,United Kingdom
+290,"Pohlad, Carl",1.8,United States
+291,"Potanin, Vladimir",1.8,Russia
+292,"Armani, Giorgio",1.7,Italy
+293,"Arrillaga, John",1.7,United States
+294,"Birla, Kumar Mangalam",1.7,India
+295,"Ferrero, Michele",1.7,Italy
+296,"Flinn, Lawrence Jr.",1.7,United States
+297,"Halim, Rachman & family",1.7,Indonesia
+298,"Jackson, Jess Stonestreet",1.7,United States
+299,"Jannard, Jim",1.7,United States
+300,"Johnson, Rupert Jr.",1.7,United States
+301,"Kudelski, André",1.7,Switzerland
+302,"Mathile, Clayton Lee",1.7,United States
+303,"McNealy, Scott G.",1.7,United States
+304,"Melnyk, Eugene",1.7,Canada
+305,"Morrison, Kenneth & family",1.7,United Kingdom
+306,"Peery, Richard Taylor",1.7,United States
+307,"Perez Companc, Gregorio",1.7,Argentina
+308,"Rich, Robert Edward Sr.",1.7,United States
+309,"Sant, Roger W.",1.7,United States
+310,"Spangler, Clemmie Dixon Jr.",1.7,United States
+311,"Trump, Donald John",1.7,United States
+312,"Bakke, Dennis",1.6,United States
+313,"Bass, Perry Richardson",1.6,United States
+314,"Birck, Michael",1.6,United States
+315,"Bogdanov, Vladimir",1.6,Russia
+316,Chen Din Hwa,1.6,Hong Kong
+317,"DeVos, Richard M.",1.6,United States
+318,"Diniz, Abílio dos Santos & family",1.6,Brazil
+319,"Dumas, Jean-Louis & family",1.6,France
+320,"Funai, Tetsuro",1.6,Japan
+321,"Hubbard, Stanley Stub",1.6,United States
+322,"Johnson, Robert L.",1.6,United States
+323,Kwek Leng Beng,1.6,Singapore
+324,Lee Kun Hee & family,1.6,South Korea
+325,"Magness, Gary",1.6,United States
+326,"McKelvey, Andrew",1.6,United States
+327,"Mitchell, George Phydias",1.6,United States
+328,"Morean, William",1.6,United States
+329,"Primat, Didier",1.6,France
+330,"Rocca, Roberto & family",1.6,Argentina
+331,"Shwed, Gil",1.6,Israel
+332,"Stephens, Jackson Thomas",1.6,United States
+333,"Uzan, Kemal & family",1.6,Turkey
+334,"Washington, Dennis",1.6,United States
+335,"Weill, Sanford",1.6,United States
+336,"Al Jeraisy, Abdul Al Rahman",1.5,Saudi Arabia
+337,"Batten, Frank",1.5,United States
+338,"Berg, Carl Edwin",1.5,United States
+339,"Bernat, Enric",1.5,Spain
+340,"Blocher, Christoph",1.5,Switzerland
+341,"Dorrance, Bennett",1.5,United States
+342,"Goldman, Richard N.",1.5,United States
+343,"Haji-Ioannou, Stelios",1.5,Greece
+344,"Kinder, Richard D.",1.5,United States
+345,"Kravis, Henry R.",1.5,United States
+346,"Magness, Kim",1.5,United States
+347,"Marinho, Roberto & family",1.5,Brazil
+348,"Marriott, Richard Edwin",1.5,United States
+349,"McCombs, Billy Joe ""Red""",1.5,United States
+350,"Nacht, Marius",1.5,Israel
+351,"Peralta, Carlos & family",1.5,Mexico
+352,"Rales, Mitchell",1.5,United States
+353,"Rales, Steven",1.5,United States
+354,"Roberts, George R.",1.5,United States
+355,"Rockefeller, Laurance Spelman",1.5,United States
+356,"Sarmiento Angulo, Luis Carlos",1.5,Colombia
+357,"Simmons, Harold Clark",1.5,United States
+358,"Sobrato, John Albert",1.5,United States
+359,Tiong Hiew King,1.5,Malaysia
+360,"Troutt, Kenny A.",1.5,United States
+361,"Viakhirev, Rem",1.5,Russia
+362,"Yuen, Henry C.",1.5,United States
+363,"Abramovich, Roman",1.4,Russia
+364,"Bellon, Pierre",1.4,France
+365,"Booth, Franklin Otis Jr.",1.4,United States
+366,"Botín, Emilio & family",1.4,Spain
+367,"Case, Stephen M.",1.4,United States
+368,"Cuban, Mark",1.4,United States
+369,"Druckenmiller, Stanley",1.4,United States
+370,"Fentener van Vlissingen, John A.",1.4,Netherlands
+371,"Ford, William Clay",1.4,United States
+372,"Frist, Thomas F. Jr.",1.4,United States
+373,"Fukutake, Soichiro",1.4,Japan
+374,"Gage, Barbara Carlson",1.4,United States
+375,"Hagen, Stein-Erik",1.4,Norway
+376,"Hilti, Michael & family",1.4,Liechtenstein
+377,"Kellogg, William S.",1.4,United States
+378,Koo Chen-fu & family,1.4,Taiwan
+379,"Liebherr, Willi & Isolde",1.4,Switzerland
+380,"Lindemann, George L. & family",1.4,United States
+381,"McNair, Robert C.",1.4,United States
+382,"Nelson,Marilyn Carlson",1.4,United States
+383,"Prada, Miuccia Bianchi",1.4,Italy
+384,Rafael del Pino & family,1.4,Spain
+385,"Van Andel, Jay",1.4,United States
+386,"von Thurn und Taxis, Gloria",1.4,Germany
+387,"Alekperov, Vagit",1.3,Russia
+388,"Al Rajhi, Saleh Bin Abdul",1.3,Saudi Arabia
+389,"Bamford, Anthony & family",1.3,United Kingdom
+390,"De Benedetti, Carlo",1.3,Italy
+391,"Guerrand-Hermès, Patrick",1.3,France
+392,"Harp Helú, Alfredo",1.3,Mexico
+393,"Hector, Hans-Werner",1.3,Germany
+394,"Hernandez, Roberto",1.3,Mexico
+395,"Hughes, Bradley Wayne",1.3,United States
+396,"Jobs, Steven Paul",1.3,United States
+397,"Lamonde, Germain",1.3,Canada
+398,"Langone, Kenneth G.",1.3,United States
+399,"Levine, William S.",1.3,United States
+400,"Luksic, Andronico & family",1.3,Chile
+401,"Marshall, E. Pierce",1.3,United States
+402,"Matte, Eliodoro and family",1.3,Chile
+403,"McCain, Wallace",1.3,Canada
+404,"Micheli, Francesco",1.3,Italy
+405,"Fridman, Mikhail",1.3,Russia
+406,"Moran, James Martin",1.3,United States
+407,"Moreno, Arturo",1.3,United States
+408,"Munger, Charles",1.3,United States
+409,"Pratt, Richard",1.3,Australia
+410,Rong Yiren & family,1.3,China
+411,"Rupert, Johann & family",1.3,South Africa
+412,"Saban, Haim",1.3,United States
+413,"Saba Raffoul, Isaac & family",1.3,Mexico
+414,"Sampoerna, Putera",1.3,Indonesia
+415,"Scaglia, Silvio",1.3,Italy
+416,"Smith, Vincent C.",1.3,United States
+417,"Sturm, Donald L.",1.3,United States
+418,"Sy, Henry & family",1.3,Philippines
+419,"Tanzi, Calisto",1.3,Italy
+420,"Williams, Arthur L. Jr.",1.3,United States
+421,"Bass, Edward Perry",1.2,United States
+422,"Bromilow, David",1.2,Thailand
+423,"Busujima, Kunio",1.2,Japan
+424,"Emmerson, Archie Aldis ""Red""",1.2,United States
+425,"Field, Frederick Woodruff",1.2,United States
+426,"Fredriksen, John",1.2,Norway
+427,"Harbert, Marguerite",1.2,United States
+428,"Jamail, Joseph Dahr Jr.",1.2,United States
+429,"Kokkalis, Socrates",1.2,Greece
+430,"Krehbiel, John Hammond Jr.",1.2,United States
+431,Lee Seng Wee and family,1.2,Singapore
+432,"Lenfest, Harold Fitzgerald",1.2,United States
+433,"Mannix, Ron & Fred",1.2,Canada
+434,"Marriott, John Willard Jr.",1.2,United States
+435,"Miller, Sydell",1.2,United States
+436,"Nicholas, Peter M.",1.2,United States
+437,"O'Reilly, Anthony",1.2,Ireland
+438,"Rich, Marc David",1.2,Switzerland
+439,"Roberts, Brian L.",1.2,United States
+440,"Rockefeller, Winthrop Paul",1.2,United States
+441,"Scaife, Richard Mellon",1.2,United States
+442,"Shinawatra, Thaksin",1.2,Thailand
+443,"Siegel, Herbert",1.2,United States
+444,"Soru, Renato",1.2,Italy
+445,"Stryker, Jon L.",1.2,United States
+446,"Tan, Lucio",1.2,Philippines
+447,"Ziff, Daniel Morton",1.2,United States
+448,"Ziff, Dirk Edward",1.2,United States
+449,"Ziff, Robert David",1.2,United States
+450,"Zobel de Ayala, Jamie & family",1.2,Philippines
+451,"Zuckerman, Mortimer Benjamin",1.2,United States
+452,"Abele, John E.",1.1,United States
+453,"Anselmo, Mary",1.1,United States
+454,"Caltagirone, Francesco Gaetano",1.1,Italy
+455,"Chernomyrdin, Viktor",1.1,Russia
+456,"Cook, William Alfred",1.1,United States
+457,"Coutu, Jean",1.1,Canada
+458,"Dedman, Robert Henry",1.1,United States
+459,"Disney, Roy Edward",1.1,United States
+460,"Flatley, Thomas John",1.1,United States
+461,"Fok, Henry",1.1,Hong Kong
+462,"Fung, Victor",1.1,Hong Kong
+463,"Fung, William",1.1,Hong Kong
+464,"Goldsbury, Christopher",1.1,United States
+465,"Ho, Stanley",1.1,Hong Kong
+466,"Kimmel, Sidney",1.1,United States
+467,"Kozuki, Kagemasa",1.1,Japan
+468,"Lam, Barry",1.1,Taiwan
+469,"McCain, Harrison",1.1,Canada
+470,"McCaw, Bruce R.",1.1,United States
+471,"McCaw, John Elroy Jr.",1.1,United States
+472,"McCaw, Keith W.",1.1,United States
+473,"McLane, Robert Drayton Jr.",1.1,United States
+474,"Murdock, David Howard",1.1,United States
+475,"Nakajima, Kenkichi",1.1,Japan
+476,"Ogihara, Ikuo",1.1,Japan
+477,"Provera, Marco Tronchetti",1.1,Italy
+478,Quek Leng Chan,1.1,Malaysia
+479,"Ricketts, J. Joe",1.1,United States
+480,"Rock, Arthur J.",1.1,United States
+481,"Rogers, Edward S. (Ted)",1.1,Canada
+482,"Ryan, Patrick George",1.1,United States
+483,"Scott, Walter Jr.",1.1,United States
+484,"Short, Patricia A.",1.1,United States
+485,"Stryker, Ronda E.",1.1,United States
+486,"Ueltschi, Albert Lee",1.1,United States
+487,Viscount Rothermere,1.1,United Kingdom
+488,"Weber, Charlotte Colket",1.1,United States
+489,"Woo, Peter & family",1.1,Hong Kong
+490,"Adelson, Sheldon",1,United States
+491,"Azevedo, Belmiro de",1,Portugal
+492,"Bailey, Thomas",1,United States
+493,"Cadogan, Gerald",1,United Kingdom
+494,"Chace, Malcolm Green III",1,United States
+495,Chey TaeWon,1,South Korea
+496,"de Fortabat, Amalia Lacroze",1,Argentina
+497,"de Rothschild, Benjamin",1,Switzerland
+498,"Diller, Barry",1,United States
+499,"Dixon, Mark",1,United Kingdom
+500,"Doerr, L. John",1,United States
+501,"Escarrer, Gabriel",1,Spain
+502,"Filo, David",1,United States
+503,"France, James C.",1,United States
+504,"France, William C. Jr.",1,United States
+505,"Frère, Albert",1,Belgium
+506,"Gores, Tom T.",1,United States
+507,"Green, Pincus",1,Switzerland
+508,"Hamilton, Dorrance Hill",1,United States
+509,"Hearst, William Randolph III",1,United States
+510,"Herrera de Noble, Ernestina",1,Argentina
+511,"Johnson, Antonia",1,Sweden
+512,"Khosla, Vinod",1,United States
+513,"Kohlberg, Jerome Spiegel Jr.",1,United States
+514,"Koplowitz, Alicia",1,Spain
+515,"Koplowitz, Esther",1,Spain
+516,"Kovner, Bruce",1,United States
+517,"Kriens, Scott",1,United States
+518,"Krishnan, T. Ananda",1,Malaysia
+519,"Larrea Mota-Velasco, Germán",1,Mexico
+520,"Lee-Chin, Michael",1,Canada
+521,Lee Hon Chiu,1,Hong Kong
+522,"Levinson, Frank",1,United States
+523,"Lien, George Ying Chow",1,Singapore
+524,"Richter, Jacob (Kobi) & Yehudith (Jud)",1,Israel
+525,"Robertson, Julian H. Jr.",1,United States
+526,"Sawiris, Onsi & family",1,Egypt
+527,"Schneider, Donald J.",1,United States
+528,"Servier, Jacques",1,France
+529,"Simonyi, Charles",1,United States
+530,"Takenaka, Toichi",1,Japan
+531,"Todd, John & family",1,New Zealand
+532,"Uehara, Shoji",1,Japan
+533,"Van Beuren, Hope Hill",1,United States
+534,"Vilar, Alberto",1,United States
+535,"Waitt, Norman W.",1,United States
+536,Wee Cho Yaw,1,Singapore
+537,"White, Dean",1,United States
+538,"Yang, Jerry",1,United States
