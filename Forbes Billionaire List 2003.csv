@@ -1,477 +1,520 @@
-Rank,Name,Wealth (in $1B USD),Country of Citizenship
-1,William H Gates III,40.7,United States
-2,Warren E Buffett,30.5,United States
-3,Karl & Theo Albrecht,25.6,Germany
-4,Paul G Allen,20.1,United States
-5,Prince Alwaleed Bin Talal Alsaud,17.7,Saudi Arabia
-6,Lawrence J Ellison,16.6,United States
-7,Alice L Walton,16.5,United States
-8,Helen R Walton,16.5,United States
-9,Jim C Walton,16.5,United States
-10,John T Walton,16.5,United States
-11,S Robson Walton,16.5,United States
-12,Liliane Bettencourt,14.5,France
-13,Kenneth Thomson & family,14,Canada
-14,Ingvar Kamprad,13,Sweden
-15,Birgit Rausing & family,12.9,Sweden
-16,Steven A Ballmer,11.1,United States
-17,John W Kluge,10.5,United States
-18,Barbara Cox Anthony,10.3,United States
-19,Anne Cox Chambers,10.3,United States
-20,Amancio Ortega,10.3,Spain
-21,Forrest E Mars Jr,10,United States
-22,Jacqueline Mars,10,United States
-23,John F Mars,10,United States
-24,Michael Dell,9.8,United States
-25,Abigail Johnson,8.2,United States
-26,Mikhail B Khodorkovsky,8,Russia
-27,Sumner M Redstone,8,United States
-28,Li Ka-shing,7.8,Hong Kong
-29,Donald E Newhouse,7.7,United States
-30,Samuel I Newhouse Jr,7.7,United States
-31,Hans Rausing,7.7,Sweden
-32,Robert A Pritzker,7.6,United States
-33,Thomas J Pritzker,7.6,United States
-34,Gerald Cavendish Grosvenor,7.5,United Kingdom
-35,Carlos Slim Helu,7.4,Mexico
-36,Samuel C Johnson,7.3,United States
-37,Nobutada Saji & family,7.1,Japan
-38,George Soros,7,United States
-39,"Khaled, Hayat, Hutham, Lubna & Mary Olayan",6.9,Saudi Arabia
-40,Bernard Arnault,6.7,France
-41,Stefan Persson,6.7,Sweden
-42,"Walter, Thomas & Raymond Kwok",6.6,Hong Kong
-43,Galen Weston & family,6.2,Canada
-44,H Ty Warner,6,United States
-45,Silvio Berlusconi,5.9,Italy
-46,Charles Ergen,5.9,United States
-47,Azim Premji,5.9,India
-48,Carl Icahn,5.8,United States
-49,Roman A Abramovich,5.7,Russia
-50,Curt Engelhorn,5.7,Germany
-51,Friedrich K Flick Jr,5.7,Germany
-52,Leonardo Del Vecchio,5.6,Italy
-53,August von Finck,5.6,Germany
-54,Keith R Murdoch,5.5,United States
-55,Rudolf August Oetker & family,5.5,Germany
-56,Michael Otto & family,5.5,Germany
-57,Susanne Klatten,5.3,Germany
-58,Nasser Al-Kharafi & family,5.1,Kuwait
-59,Pierre Landolt & family,5,Switzerland
-60,Pierre M Omidyar,5,United States
-61,Yasuo Takei & family,5,Japan
-62,Philip F Anschutz,4.9,United States
-63,Michael R Bloomberg,4.8,United States
-64,Ernesto Bertarelli,4.7,Switzerland
-65,Luciano Benetton & family,4.6,Italy
-66,Marvin H Davis,4.6,United States
-67,Alain & Gerard Wertheimer,4.5,France
-68,Mikhail M Fridman,4.3,Russia
-69,Lorenzo A Mendoza & family,4.3,Venezuela
-70,Stefan Quandt,4.3,Germany
-71,Philip H Knight,4.2,United States
-72,Eitaro Itoyama,4.1,Japan
-73,Fukuzo Iwasaki,4.1,Japan
-74,Edward C Johnson III,4.1,United States
-75,Karl-Heinz Kipp,4.1,Germany
-76,Reinhard Mohn & family,4.1,Germany
-77,Akira Mori,4.1,Japan
-78,Donald L Bren,4,United States
-79,Gustavo Cisneros & family,4,Venezuela
-80,Charles D Koch,4,United States
-81,David H Koch,4,United States
-82,Eli Broad,3.9,United States
-83,Rafik Al-Hariri & family,3.8,Lebanon
-84,David Geffen,3.8,United States
-85,Erivan Haub & family,3.8,Germany
-86,Maria -Elisabeth & Georg Schaeffler,3.8,Germany
-87,"Dieter, Monika & Stefan von Holtzbrinck",3.8,Germany
-88,Charlene L de Carvalho,3.7,Netherlands
-89,Lee Shau Kee,3.7,Hong Kong
-90,Henry Ross Perot,3.7,United States
-91,Tsai Wan Lin,3.7,Taiwan
-92,Antonia Johnson,3.6,Sweden
-93,Joseph & Moise Safra,3.6,Brazil
-94,Michele Ferrero,3.5,Italy
-95,"James, Arthur & John Irving",3.5,Canada
-96,William Wrigley Jr,3.5,United States
-97,Jeronimo Arango,3.4,Mexico
-98,Kirk Kerkorian,3.4,United States
-99,Robert Kuok,3.4,Malaysia
-100,Johanna Quandt,3.4,Germany
-101,Michael Kadoorie & family,3.3,Hong Kong
-102,Spiro Latsis & family,3.3,Greece
-103,Adolf Merckle,3.3,Germany
-104,Micky Arison,3.2,United States
-105,Riley P Bechtel,3.2,United States
-106,Stephen D Bechtel Jr,3.2,United States
-107,William A Cook,3.2,United States
-108,Serge Dassault & family,3.2,France
-109,Bernard Ecclestone & family,3.2,United Kingdom
-110,Paul Louis Halley & family,3.2,France
-111,Nicky Oppenheimer & family,3.2,South Africa
-112,James Goodnight,3.1,United States
-113,Rolf Gerling,3,Germany
-114,Mohammed Jameel & family,3,Saudi Arabia
-115,George Lucas,3,United States
-116,David Sainsbury & family,3,United Kingdom
-117,Jack C Taylor,3,United States
-118,Abdulaziz Bin Hamad Algosaibi & family,2.9,Saudi Arabia
-119,Robert Bosch Jr & family,2.9,Germany
-120,Hubert Burda,2.9,Germany
-121,Henry L Hillman,2.9,United States
-122,Hasso Plattner,2.9,Germany
-123,Mukesh & Anil Ambani,2.8,India
-124,Khalid Bin Mahfouz & family,2.8,Saudi Arabia
-125,Lester Crown & family,2.8,United States
-126,Lee Kun-hee,2.8,South Korea
-127,Francois Pinault,2.8,France
-128,Sakip Sabanci & family,2.8,Turkey
-129,Jeffrey S Skoll,2.8,Canada
-130,Nina Wang,2.8,Hong Kong
-131,Heinz Bauer,2.7,Germany
-132,Aloysio de Andrade Faria,2.7,Brazil
-133,Walter Haefner,2.7,Switzerland
-134,Kyosuke Kinoshita & family,2.7,Japan
-135,Ann Walton Kroenke,2.7,United States
-136,John E Abele,2.6,United States
-137,George B Kaiser,2.6,United States
-138,Khoo Teck Puat,2.6,Singapore
-139,Leonard A Lauder,2.6,United States
-140,Samuel J LeFrak & family,2.6,United States
-141,Sergio Mantegazza,2.6,Switzerland
-142,Gordon Earle Moore,2.6,United States
-143,Charles R Schwab,2.6,United States
-144,Patrick Wang,2.6,Hong Kong
-145,Reinhold Würth,2.6,Germany
-146,Robert M Bass,2.5,United States
-147,Jeffrey P Bezos,2.5,United States
-148,Jon M Huntsman,2.5,United States
-149,Craig O McCaw,2.5,United States
-150,John R Menard Jr,2.5,United States
-151,Kerry Packer,2.5,Australia
-152,Ronald O Perelman,2.5,United States
-153,David Rockefeller Sr,2.5,United States
-154,Stephan Schmidheiny,2.5,Switzerland
-155,Yoshiaki Tsutsumi,2.5,Japan
-156,Viktor Vekselberg,2.5,Russia
-157,Shari Arison,2.4,Israel
-158,Kumar M Birla,2.4,India
-159,Masatoshi Ito,2.4,Japan
-160,Stefan Schörghuber,2.4,Germany
-161,Edgar M Bronfman Sr,2.3,United States
-162,Clive Calder,2.3,United Kingdom
-163,John T Dorrance III,2.3,Ireland
-164,Tetsuro Funai,2.3,Japan
-165,Maurice R Greenberg,2.3,United States
-166,Ray L Hunt,2.3,United States
-167,Barbara Piasecka Johnson,2.3,United States
-168,Saleh Kamel,2.3,Saudi Arabia
-169,Kjeld Kirk Kristiansen,2.3,Denmark
-170,Nancy Walton Laurie,2.3,United States
-171,Hugo Mann & family,2.3,Germany
-172,A Jerrold Perenchio,2.3,United States
-173,Robert Rowling,2.3,United States
-174,Anton Schlecker,2.3,Germany
-175,Preston R Tisch,2.3,United States
-176,Charles R Bronfman,2.2,Canada
-177,Susan Thompson Buffett,2.2,United States
-178,Jean-Claude Decaux & family,2.2,France
-179,Yoshitaka Fukuda & family,2.2,Japan
-180,Ronald S Lauder,2.2,United States
-181,Achille Maramotti,2.2,Italy
-182,Lakshmi Mittal,2.2,India
-183,Peter M Nicholas,2.2,United States
-184,Jim Pattison,2.2,Canada
-185,Bernard (Barry) Sherman,2.2,Canada
-186,Shin Kyuk-ho,2.2,South Korea
-187,John R Simplot & family,2.2,United States
-188,James L Sorenson,2.2,United States
-189,Steven A Spielberg,2.2,United States
-190,Leonard N Stern,2.2,United States
-191,Sulaiman Bin Abdul Al Rajhi,2.1,Saudi Arabia
-192,Gerald Cadogan,2.1,United Kingdom
-193,Rafael del Pino & family,2.1,Spain
-194,Gordon P Getty,2.1,United States
-195,Martha R Ingram & family,2.1,United States
-196,Girard Louis-Dreyfus & family,2.1,France
-197,Leslie Herbert Wexner,2.1,United States
-198,Abdul Aziz Al Ghurair,2,United Arab Emirates
-199,Amos B Hostetter Jr,2,United States
-200,Rahmi Koc & family,2,Turkey
-201,Patrick J McGovern,2,United States
-202,Pallonji S Mistry,2,India
-203,Maersk Mc-Kinney Moller,2,Denmark
-204,Carl Pohlad,2,United States
-205,Laurence A Tisch,2,United States
-206,Robert E (Ted) Turner,2,United States
-207,Lorenzo Zambrano & family,2,Mexico
-208,Donald J Hall,1.9,United States
-209,Otto Happel,1.9,Germany
-210,Leona Helmsley,1.9,United States
-211,Ralph Lauren,1.9,United States
-212,Lim Goh Tong,1.9,Malaysia
-213,Richard E Rainwater,1.9,United States
-214,Thomas Schmidheiny,1.9,Switzerland
-215,Clemmie D Spangler Jr,1.9,United States
-216,Lucio Tan,1.9,Philippines
-217,Glen Taylor,1.9,United States
-218,Donald J Trump,1.9,United States
-219,Klaus Tschira,1.9,Germany
-220,YC Wang,1.9,Taiwan
-221,S D Abraham,1.8,United States
-222,Herbert A Allen Jr,1.8,United States
-223,Kunio Busujima & family,1.8,Japan
-224,Charles C Butt,1.8,United States
-225,William M Davidson,1.8,United States
-226,Eugenio Garza Laguera & family,1.8,Mexico
-227,Jess S Jackson,1.8,United States
-228,Frank Lowy & family,1.8,Australia
-229,Wallace McCain,1.8,Canada
-230,Vladimir O Potanin,1.8,Russia
-231,Robert E Rich Sr,1.8,United States
-232,Ferit Sahenk & family,1.8,Turkey
-233,Tsai Wan Tsai,1.8,Taiwan
-234,Samuel Zell,1.8,United States
-235,Giorgio Armani,1.7,Italy
-236,Alberto Bailleres,1.7,Mexico
-237,Richard Branson,1.7,United Kingdom
-238,Cheng Yu-tung,1.7,Hong Kong
-239,Paul Desmarais & family,1.7,Canada
-240,Richard M DeVos,1.7,United States
-241,Edward L Gaylord,1.7,United States
-242,Günter Herz,1.7,Germany
-243,H W Huizenga,1.7,United States
-244,Steven P Jobs,1.7,United States
-245,Peter R Kellogg,1.7,United States
-246,Kwek Leng Beng,1.7,Singapore
-247,Juan & Carlos March,1.7,Spain
-248,Clayton Lee Mathile,1.7,United States
-249,Rosalia Mera,1.7,Spain
-250,Kenneth Morrison & family,1.7,United Kingdom
-251,Ng Teng Fong,1.7,Singapore
-252,Haim Saban,1.7,United States
-253,Takemitsu Takizaki,1.7,Japan
-254,Dennis Washington,1.7,United States
-255,Donald G Fisher,1.6,United States
-256,Doris Feigenbaum Fisher,1.6,United States
-257,Alec Gores,1.6,United States
-258,Terry Gou,1.6,Taiwan
-259,Nicolas Hayek,1.6,Switzerland
-260,Roberto Hernandez,1.6,Mexico
-261,Daniela Herz,1.6,Germany
-262,Bradley W Hughes,1.6,United States
-263,Ananda Krishnan,1.6,Malaysia
-264,Lee Seng Wee,1.6,Singapore
-265,Willi and Isolde Liebherr,1.6,Switzerland
-266,Andronico Luksic & family,1.6,Chile
-267,E Pierce Marshall,1.6,United States
-268,Sammy and Yuli Ofer,1.6,Israel
-269,Gregorio Perez Companc & family,1.6,Argentina
-270,Mikhail Prokhorov,1.6,Russia
-271,Hans Riegel,1.6,Germany
-272,Paul Riegel,1.6,Germany
-273,Fayez S Sarofim,1.6,United States
-274,Madeleine Schickedanz,1.6,Germany
-275,Steven Udvar-Hazy,1.6,United States
-276,Eugen Viehof & family,1.6,Germany
-277,Umberto Agnelli & family,1.5,Italy
-278,Mohammad H Al Amoudi,1.5,Saudi Arabia
-279,Ronald Burkle,1.5,United States
-280,Oleg V Deripaska,1.5,Russia
-281,Stanley Druckenmiller,1.5,United States
-282,Jean-Louis Dumas & family,1.5,France
-283,Thomas F Frist Jr,1.5,United States
-284,Tom T Gores,1.5,United States
-285,Alfredo Harp Helu,1.5,Mexico
-286,Michael Herz,1.5,Germany
-287,Wolfgang Herz,1.5,Germany
-288,Ryoichi Jinnai & family,1.5,Japan
-289,Charles B Johnson,1.5,United States
-290,Daryl A Katz,1.5,Canada
-291,Herbert Kohler & family,1.5,United States
-292,John C Malone,1.5,United States
-293,Harrison McCain,1.5,Canada
-294,Hideo Morita & family,1.5,Japan
-295,Quek Leng Chan,1.5,Malaysia
-296,Laurance Spelman Rockefeller,1.5,United States
-297,John Sall,1.5,United States
-298,Jackson T Stephens,1.5,United States
-299,Jay Van Andel,1.5,United States
-300,Albert von Thurn und Taxis,1.5,Germany
-301,Vladimir P Yevtushenkov,1.5,Russia
-302,Sheldon Adelson,1.4,United States
-303,Anacleto Angelini,1.4,Chile
-304,Christoph Blocher,1.4,Switzerland
-305,Antonio Champalimaud,1.4,Portugal
-306,Richard T Farmer,1.4,United States
-307,Philip Green,1.4,United Kingdom
-308,Rachman Halim & family,1.4,Indonesia
-309,Stanley Ho,1.4,Hong Kong
-310,Koo Chen-fu,1.4,Taiwan
-311,Bruce Kovner,1.4,United States
-312,Michael Krasny,1.4,United States
-313,E Stanley Kroenke,1.4,United States
-314,Michael Lee-Chin,1.4,Canada
-315,Kenichi Mabuchi & family,1.4,Japan
-316,Mary Alice Dorrance Malone,1.4,United States
-317,Bernard Marcus,1.4,United States
-318,Eliodoro Matte & family,1.4,Chile
-319,Eugene Melnyk,1.4,Canada
-320,George Phydias Mitchell,1.4,United States
-321,James M Moran,1.4,United States
-322,David H Murdock,1.4,United States
-323,Miuccia Prada & family,1.4,Italy
-324,Richard M Schulze,1.4,United States
-325,Adrian Swire & family,1.4,United Kingdom
-326,John A Fentener van Vlissingen,1.4,Netherlands
-327,Hiroshi Yamauchi,1.4,Japan
-328,Vagit Y Alekperov,1.3,Russia
-329,Franklin O Booth Jr,1.3,United States
-330,Martin Bouygues & family,1.3,France
-331,Dhanin Chearavanont & family,1.3,Thailand
-332,Chen Din Hwa,1.3,Hong Kong
-333,Jean Coutu,1.3,Canada
-334,Mark Cuban,1.3,United States
-335,David A Duffield,1.3,United States
-336,Louis L Gonda,1.3,United States
-337,Alicia Koplowitz,1.3,Spain
-338,Henry R Kravis,1.3,United States
-339,Robert C McNair,1.3,United States
-340,Carlos Peralta & family,1.3,Mexico
-341,Mitchell Rales,1.3,United States
-342,Steven Rales,1.3,United States
-343,George R Roberts,1.3,United States
-344,Ernest E Stempel,1.3,United States
-345,Kemal Uzan & family,1.3,Turkey
-346,Wee Cho Yaw,1.3,Singapore
-347,Maria Asuncion Aramburuzabala & family,1.2,Mexico
-348,Lee M Bass,1.2,United States
-349,Julio Bozano,1.2,Brazil
-350,Gerd Brachmann,1.2,Germany
-351,Ennio Doris,1.2,Italy
-352,Bennett Dorrance,1.2,United States
-353,Richard J Egan,1.2,United States
-354,Frederick W Field,1.2,United States
-355,Thomas J Flatley,1.2,United States
-356,Philippe Foriel-Destezet,1.2,France
-357,Barbara Carlson Gage & family,1.2,United States
-358,Blase T Golisano,1.2,United States
-359,Joachim Herz,1.2,Germany
-360,Joseph D Jamail Jr,1.2,United States
-361,Robert L Johnson,1.2,United States
-362,Rupert Johnson Jr,1.2,United States
-363,Richard Kinder,1.2,United States
-364,Joan B Kroc,1.2,United States
-365,George L Lindemann & family,1.2,United States
-366,L Lowry Mays,1.2,United States
-367,Alexei A Mordashov,1.2,Russia
-368,Charles T Munger,1.2,United States
-369,Robert A Naify,1.2,United States
-370,Marilyn Carlson Nelson & family,1.2,United States
-371,Winthrop P Rockefeller,1.2,United States
-372,Emanuele (Lino) Saputo & family,1.2,Canada
-373,Bruno Schroder & family,1.2,United Kingdom
-374,Thomas M Siebel,1.2,United States
-375,John A Sobrato,1.2,United States
-376,John Sperling,1.2,United States
-377,Peter Sperling,1.2,United States
-378,Jon L Stryker,1.2,United States
-379,Ronda E Stryker,1.2,United States
-380,Henry Sy & family,1.2,Philippines
-381,Arthur L Williams Jr,1.2,United States
-382,Daniel M Ziff,1.2,United States
-383,Dirk E Ziff,1.2,United States
-384,Robert D Ziff,1.2,United States
-385,John Arrillaga,1.1,United States
-386,Frank Batten Sr,1.1,United States
-387,Otto Beisheim,1.1,Germany
-388,Emilio Botin & family,1.1,Spain
-389,Anneliese Brost,1.1,Germany
-390,Heinz-Horst Deichmann,1.1,Germany
-391,Adi Godrej,1.1,India
-392,Christopher Goldsbury,1.1,United States
-393,Pincus Green,1.1,United States
-394,John Hargreaves & family,1.1,United Kingdom
-395,Jonathan Harmsworth,1.1,United Kingdom
-396,Hans-Werner Hector,1.1,Germany
-397,Michael Hilti & family,1.1,Liechtenstein
-398,Robert E Holding,1.1,United States
-399,James Jannard,1.1,United States
-400,Klaus-Michael Kühne,1.1,Germany
-401,William S Kellogg,1.1,United States
-402,Esther Koplowitz,1.1,Spain
-403,Joseph Lewis,1.1,United Kingdom
-404,Peter B Lewis,1.1,United States
-405,John E McCaw Jr,1.1,United States
-406,Billy Joe (Red) McCombs,1.1,United States
-407,John P Morgridge,1.1,United States
-408,Leonid B Nevzlin,1.1,Russia
-409,Henry T Nicholas III,1.1,United States
-410,Richard Taylor Peery,1.1,United States
-411,Richard Pratt,1.1,Australia
-412,Marc D Rich,1.1,United States
-413,Isaac Saba Raffoul & family,1.1,Mexico
-414,Henry Samueli,1.1,United States
-415,Evgeny Schvidler,1.1,Russia
-416,Frederick W Smith,1.1,United States
-417,Masayoshi Son,1.1,Japan
-418,Friede Springer,1.1,Germany
-419,Patricia A Stryker,1.1,United States
-420,Joop van den Ende,1.1,Netherlands
-421,Theodore W Waitt,1.1,United States
-422,Sanford Weill,1.1,United States
-423,Chaleo Yoovidhya,1.1,Thailand
-424,Henry B Zachry Jr,1.1,United States
-425,Mortimer B Zuckerman,1.1,United States
-426,Saleh bin Abdul Aziz Al Rajhi,1,Saudi Arabia
-427,Pierre Bellon & family,1,France
-428,Carl E Berg,1,United States
-429,Vladimir Bogdanov,1,Russia
-430,Mikhail B Brudno,1,Russia
-431,Turgay Ciner,1,Turkey
-432,Jorgen Clausen & family,1,Denmark
-433,Gary Campbell Comer,1,United States
-434,Scott D Cook,1,United States
-435,John de Mol,1,Netherlands
-436,Vladimir M Dubov,1,Russia
-437,Archie Aldis (Red) Emmerson,1,United States
-438,Henry Fok,1,Hong Kong
-439,James C France,1,United States
-440,William C France Jr,1,United States
-441,Albert Frere,1,Belgium
-442,Den Fujita & family,1,Japan
-443,Emilio Gnutti,1,Italy
-444,Leslie L Gonda,1,United States
-445,Stein Erik Hagen,1,Norway
-446,William R Hearst III,1,United States
-447,Marvin J Herb,1,United States
-448,Morris Kahn,1,Israel
-449,Jerome S Kohlberg Jr,1,United States
-450,Platon L Lebedev,1,Russia
-451,Richard Li,1,Hong Kong
-452,Steno Marcegaglia & family,1,Italy
-453,Richard E Marriott,1,United States
-454,Dietrich Mateschitz,1,Austria
-455,Terence Matthews,1,United Kingdom
-456,Mark McCormack,1,United States
-457,Robert D McLane Jr,1,United States
-458,Roger Milliken,1,United States
-459,Shiv Nadar,1,India
-460,Anthony O'Reilly,1,Ireland
-461,Kazuo Okada,1,Japan
-462,Didier Primat,1,France
-463,Johann Rupert & family,1,South Africa
-464,Lily Safra,1,Brazil
-465,Ricardo Salinas Pliego & family,1,Mexico
-466,Luis Carlos Sarmiento,1,Colombia
-467,Richard Mellon Scaife,1,United States
-468,Walter Scott Jr,1,United States
-469,Vasily S Shakhnovsky,1,Russia
-470,Harold Clark Simmons,1,United States
-471,Charles Simonyi,1,United States
-472,Kenny A Troutt,1,United States
-473,Albert Lee Ueltschi,1,United States
-474,Dean White,1,United States
-475,Oprah Winfrey,1,United States
-476,Samuel Wyly,1,United States
+Rank,Name,Wealth (in $1B USD),Country of Citizenship,Source of Wealth,Industry
+1,Zhong Shanshan,54.297775,China,"Beverages, pharmaceuticals",Food & Beverage
+2,Zhang Yiming,45.57,China,TikTok,Technology
+3,Bill Gates,40.7,United States,,Technology
+4,Warren Buffett,30.5,United States,,Investments
+5,Paul Allen,20.1,United States,,Technology
+6,Prince Alwaleed Bin Talal Alsaud,17.7,Saudi Arabia,,Investments
+7,Lawrence Ellison,16.6,United States,,Software
+8,S. Robson Walton,16.5,United States,,Retail
+9,Jim Walton,16.5,United States,,Retail
+10,Alice Walton,16.5,United States,,Retail
+11,Zheng Shuliang & family,15.129264,China,Aluminum products,Metals & Mining
+12,Liliane Bettencourt,14.5,France,,Manufacturing
+13,Zhang Zhidong,13.771974,China,Online games,Technology
+14,Ingvar Kamprad,13,Sweden,,Retail
+15,Birgit Rausing,12.9,Sweden,,Manufacturing
+16,Yu Yong,11.507569,China,Mining,Finance & Investments
+17,Steve Ballmer,11.1,United States,,Technology
+18,Xavier Niel,10.406441999999998,France,"Internet, telecom",Telecom
+19,Zhou Qunfei,10.392636,Hong Kong,Smartphone screens,Technology
+20,Amancio Ortega,10.3,Spain,,Apparel
+21,Anne Cox Chambers,10.3,United States,,Media
+22,Zhang Congyuan,10.192997,Taiwan,Shoes,Fashion & Retail
+23,John Mars,10,United States,,Food
+24,Jacqueline Mars,10,United States,,Food
+25,Forrest Mars,10,United States,,Food
+26,Michael Dell,9.8,United States,,
+27,Zhong Huijuan,9.626804,China,Pharmaceuticals,Healthcare
+28,Xu Hang,9.458207,Hong Kong,Medical devices,Healthcare
+29,Yi Zheng,8.514363,China,Software,Technology
+30,Zhu Yi,8.274875,China,Pharmaceuticals,Healthcare
+31,Abigail Johnson,8.2,United States,,Finance
+32,Sumner Redstone,8,United States,,Media
+33,Ka-shing Li,7.8,Hong Kong,,
+34,Wu Yajun,7.791600000000001,China,Real estate,Real Estate
+35,Wu Jianshu,7.749323,Hong Kong,Auto parts,Automotive
+36,Hans Rausing,7.7,Sweden,,Manufacturing
+37,Samuel Newhouse,7.7,United States,,Media
+38,Donald Newhouse,7.7,United States,,Media
+39,Thomas Pritzker,7.6,United States,,
+40,Gerald Cavendish Grosvenor,7.5,United Kingdom,,Real Estate
+41,Carlos Slim Helu,7.4,Mexico,,
+42,George Soros,7,United States,,Finance
+43,Zhang Xuexin & family,6.971508,China,Aluminum,Metals & Mining
+44,You Xiaoping & family,6.953181,China,Polyurethanes,Manufacturing
+45,Stefan Persson,6.7,Sweden,,Retail
+46,Bernard Arnault,6.7,France,,
+47,Kwok family,6.6,Hong Kong,,Real Estate
+48,Wolfgang Marguerre & family,6.330413999999999,Germany,Pharmaceuticals,Healthcare
+49,Xu Shihui,6.2207479999999995,China,"Snacks, beverages",Food & Beverage
+50,Zhu Yan & family,6.205188,China,Real estate,Real Estate
+51,Galen Weston,6.2,Canada,,Retail
+52,Zhang Yong,6.004014,Singapore,Restaurants,Food & Beverage
+53,Ty Warner,6,United States,,Manufacturing
+54,Azim Premji,5.9,India,,
+55,Charles Ergen,5.9,United States,,Media
+56,Silvio Berlusconi,5.9,Italy,,
+57,Yuri Milner,5.88657,Israel,Tech investments,Finance & Investments
+58,Carl Icahn,5.8,United States,,Investments
+59,Curt Engelhorn,5.7,Germany,,Pharmaceuticals
+60,Roman Abramovich,5.7,Russia,,Oil
+61,Zong Fuli,5.602234999999999,China,Beverages,Food & Beverage
+62,August von Finck,5.6,Germany,,Investments
+63,Leonardo Del Vecchio,5.6,Italy,,Manufacturing
+64,Wolfgang Reimann,5.583,Germany,Consumer goods,Fashion & Retail
+65,Michael Otto,5.5,Germany,,Retail
+66,Rupert Murdoch,5.5,United States,,Media
+67,Zeng Fangqin,5.354371,Hong Kong,Smartphone components,Technology
+68,Susanne Klatten,5.3,Germany,,Pharmaceuticals
+69,Yasumitsu Shigeta,5.207118,Japan,Mobile phone retailer,Telecom
+70,Zhu Baoguo & family,5.1687579999999995,China,Pharmaceuticals,Healthcare
+71,Nasser Al-Kharafi,5.1,Kuwait,,Diversified
+72,Pierre Omidyar,5,United States,,
+73,Zhang Tao,4.935657,China,E-commerce,Fashion & Retail
+74,Philip Anschutz,4.9,United States,,
+75,Zhang Hejun,4.871145,China,Electronics,Manufacturing
+76,Yang Shaopeng,4.842738000000001,China,Shipping,Logistics
+77,Michael Bloomberg,4.8,United States,,Media
+78,Zahan Mistry,4.756206,Ireland,Diversified,Diversified
+79,Yu Renrong,4.74979,China,Semiconductors,Manufacturing
+80,Ernesto Bertarelli,4.7,Switzerland,,Pharmaceuticals
+81,Yao Liangsong,4.688393,China,Furniture,Manufacturing
+82,Luciano Benetton,4.6,Italy,,Apparel
+83,Yitzhak Tshuva,4.517822,Israel,Real estate,Real Estate
+84,Alain &#38; Gerard Wertheimer,4.5,France,,Apparel
+85,Zhang Daocai,4.353327,China,Valves,Diversified
+86,Stefan Quandt,4.3,Germany,,Manufacturing
+87,Lorenzo Mendoza,4.3,Venezuela,,Beverages
+88,Mikhail Fridman,4.3,Russia,,Oil
+89,Xiang Guangda,4.260232,China,Metals,Metals & Mining
+90,Xia Zuoquan,4.2122150000000005,China,"Automobiles, batteries",Automotive
+91,Phil Knight,4.2,United States,,Fashion and Retail
+92,Yakir Gabay,4.100987,Cyprus,Real estate,Real Estate
+93,Akira Mori,4.1,Japan,,Real Estate
+94,Karl-Heinz Kipp,4.1,Germany,,Real Estate
+95,Edward Johnson,4.1,United States,,Finance
+96,Eitaro Itoyama,4.1,Japan,,Real Estate
+97,David Koch,4,United States,,Oil
+98,Charles Koch,4,United States,,Oil
+99,Gustavo Cisneros,4,Venezuela,,Media
+100,Donald Bren,4,United States,,Real Estate
+101,Eli Broad,3.9,United States,,Manufacturing
+102,Zhou Chaonan,3.892422,China,Manufacturing,Manufacturing
+103,Maria-Elisabeth &#38; Georg Schaeffler,3.8,Germany,,Manufacturing
+104,Erivan Haub,3.8,Germany,,Retail
+105,David Geffen,3.8,United States,,Media
+106,Henry Ross Perot Sr,3.7,United States,,Technology
+107,Shau Kee Lee,3.7,Hong Kong,,Real Estate
+108,Charlene de Carvalho-Heineken,3.7,Netherlands,,Beverages
+109,Xue Min,3.65404,China,Healthcare,Healthcare
+110,Zhang Xinghai & family,3.618979,China,Machinery,Manufacturing
+111,Antonia Johnson,3.6,Sweden,,
+112,Zhao Yan,3.599813,China,Biotech,Diversified
+113,Yuji Otsuka,3.582538,Japan,"Copy machines, software",Technology
+114,William Wrigley,3.5,United States,,Food
+115,"James, Arthur &#38; John Irving",3.5,Canada,,Oil
+116,Michele Ferrero,3.5,Italy,,Food
+117,Johanna Quandt,3.4,Germany,,Manufacturing
+118,Robert Kuok,3.4,Malaysia,,Agriculture
+119,Kirk Kerkorian,3.4,United States,,Investments
+120,Jeronimo Arango,3.4,Mexico,,Retail
+121,Xiao Yongming & family,3.379978,China,Fertilizer,Diversified
+122,Zhou Jianping,3.3066660000000003,China,Fashion retail,Fashion & Retail
+123,Spiro Latsis,3.3,Greece,,
+124,Michael Kadoorie,3.3,Hong Kong,,
+125,Zou Zhinong & family,3.259275,China,communication equipment,Manufacturing
+126,Wu Guangming,3.229488,China,Medical equipment,Healthcare
+127,Yuri Kovalchuk & family,3.223596,Russia,"Banking, insurance, media",Finance & Investments
+128,Zhou Bajin,3.2005500000000002,China,Auto parts,Manufacturing
+129,Nicky Oppenheimer,3.2,South Africa,,
+130,Bernard Ecclestone,3.2,United Kingdom,,
+131,Serge Dassault,3.2,France,,Manufacturing
+132,William Cook,3.2,United States,,Health care
+133,Stephen Bechtel,3.2,United States,,
+134,Riley Bechtel,3.2,United States,,
+135,Micky Arison,3.2,United States,,Service
+136,Yang Huiyan & family,3.135299,China,Real estate,Real Estate
+137,James Goodnight,3.1,United States,,Technology
+138,Yusuf Hamied,3.0812489999999997,India,Pharmaceuticals,Healthcare
+139,Zhang Fan,3.045741,China,Touch screens,Technology
+140,Zarakh Iliev,3.021589,Russia,Real estate,Real Estate
+141,Jack Taylor,3,United States,,Service
+142,David Sainsbury,3,United Kingdom,,Retail
+143,George Lucas,3,United States,,Media
+144,Rolf Gerling,3,Germany,,Insurance
+145,Yu Zhuyun,2.9829380000000003,China,Diversified,Construction & Engineering
+146,Wu Xiangdong,2.974284,China,Liquor,Food & Beverage
+147,Zhang Jian,2.960016,China,"Electric bikes, scooters",Manufacturing
+148,Zhang Lei,2.96,Singapore,Investments,Finance & Investments
+149,Hasso Plattner,2.9,Germany,,Software
+150,Henry Hillman,2.9,United States,,Investments
+151,Hubert Burda,2.9,Germany,,Media
+152,Wu Guanjiang & family,2.866266,China,Pharmaceuticals,Healthcare
+153,Zhu Gongshan & family,2.812468,China,Solar panel materials,Manufacturing
+154,Jeffrey Skoll,2.8,Canada,,
+155,Francois Pinault,2.8,France,,
+156,Kun-Hee Lee,2.8,South Korea,,
+157,Lester Crown,2.8,United States,,Investments
+158,Mukesh Ambani,2.8,India,,Manufacturing
+159,Zheng Jianjiang & family,2.782069,China,Electrical equipment,Manufacturing
+160,Xu Gaoming,2.742216,China,Gold and Jewelry,Fashion & Retail
+161,Ye Qiongjiu,2.73485,China,Software,Technology
+162,Ye Chenghai & family,2.701476,Hong Kong,Pharmaceuticals,Healthcare
+163,Ann Walton Kroenke,2.7,United States,,Retail
+164,Walter Haefner,2.7,Switzerland,,Technology
+165,Aloysio de Andrade Faria,2.7,Brazil,,Finance
+166,Heinz Bauer,2.7,Germany,,Media
+167,Zhou Hongyi,2.65772,China,Security software,Technology
+168,Xie Weitong,2.648203,Taiwan,Cobalt,Metals & Mining
+169,Yang Weidong & family,2.626328,China,Chemicals,Manufacturing
+170,Zhang Li,2.605768,China,Real estate,Real Estate
+171,Reinhold Wurth,2.6,Germany,,Manufacturing
+172,Charles Schwab,2.6,United States,,
+173,Gordon Moore,2.6,United States,,
+174,Sergio Mantegazza,2.6,Switzerland,,
+175,Leonard Lauder,2.6,United States,,Apparel
+176,George Kaiser,2.6,United States,,Oil
+177,Ye Guofu,2.56392,China,Retail,Fashion & Retail
+178,Xue Hua,2.530275,China,Agribusiness,Manufacturing
+179,Wu Yiling,2.5268490000000003,China,Pharmaceuticals,Healthcare
+180,Yadu Hari Dalmia & family,2.501134,India,Cement,Manufacturing
+181,Viktor Vekselberg,2.5,Russia,,Oil
+182,Stephan Schmidheiny,2.5,Switzerland,,Investments
+183,David Rockefeller,2.5,United States,,Oil
+184,Ronald Perelman,2.5,United States,,Investments
+185,John Menard,2.5,United States,,Retail
+186,Craig McCaw,2.5,United States,,Media
+187,Jon Huntsman,2.5,United States,,
+188,Jeff Bezos,2.5,United States,,Technology
+189,Robert Bass,2.5,United States,,Oil
+190,Wolfgang Leitner,2.488161,Austria,Engineering,Construction & Engineering
+191,Zhao Lixin,2.4868159999999997,China,Electronics,Technology
+192,Wu Kai,2.453716,China,Batteries,Energy
+193,Zhao Fenggang,2.4125140000000003,China,Batteries,Energy
+194,Xie Liangzhi & family,2.407264,China,Biotech,Healthcare
+195,Zhu Xingming,2.4070709999999997,China,Electrical equipment,Manufacturing
+196,Masatoshi Ito,2.4,Japan,,Retail
+197,Kumar Birla,2.4,India,,
+198,Shari Arison,2.4,Israel,,
+199,Zhang Wanzhen,2.3806619999999996,China,Electronics components,Manufacturing
+200,Yoo Jung-hyun,2.378168,South Korea,Online games,Media & Entertainment
+201,Anton Schlecker,2.3,Germany,,Retail
+202,Robert Rowling,2.3,United States,,
+203,A. Jerrold Perenchio,2.3,United States,,Media
+204,Nancy Walton Laurie,2.3,United States,,Retail
+205,Kjeld Kirk Kristiansen,2.3,Denmark,,Manufacturing
+206,Saleh Kamel,2.3,Saudi Arabia,,
+207,Barbara Piasecka Johnson,2.3,United States,,Health Care
+208,Ray Lee Hunt,2.3,United States,,Oil
+209,Tetsuro Funai,2.3,Japan,,Manufacturing
+210,John Dorrance,2.3,Ireland,,Food
+211,Clive Calder,2.3,United Kingdom,,Media
+212,Edgar Bronfman,2.3,United States,,Food
+213,Yeung Kin-man,2.298873,Hong Kong,Electronics,Manufacturing
+214,Yvonne Bauer,2.286301,Germany,"Magazines, media",Media & Entertainment
+215,Zhang Bangxin,2.252769,China,Education,Service
+216,Xu Jinfu & family,2.221476,China,Chemicals,Manufacturing
+217,Zygmunt Solorz,2.221241,Poland,TV broadcasting,Media & Entertainment
+218,Yuan Fugen & family,2.217473,China,Metal processing,Manufacturing
+219,Leonard Stern,2.2,United States,,Real Estate
+220,Steven Spielberg,2.2,United States,,Media
+221,Bernard (Barry) Sherman,2.2,Canada,,Pharmaceuticals
+222,Jim Pattison,2.2,Canada,,
+223,Lakshmi Mittal,2.2,India,,Manufacturing
+224,Ronald Lauder,2.2,United States,,Apparel
+225,Jean-Claude Decaux,2.2,France,,
+226,Charles Bronfman,2.2,Canada,,Beverages
+227,Wong Man Li,2.183739,Hong Kong,Furniture,Manufacturing
+228,Yoshiko Mori,2.139852,Japan,Real estate,Real Estate
+229,Zhang Jingzhang & family,2.138993,China,Precision machinery,Manufacturing
+230,Zhang Ning,2.130721,Canada,Chemicals,Manufacturing
+231,Zakhar Smushkin,2.107505,Russia,"Pulp and paper, diversified",Diversified
+232,Leslie Wexner,2.1,United States,,Fashion and Retail
+233,Martha Ingram,2.1,United States,,Media
+234,Gordon Getty,2.1,United States,,Energy
+235,Charles Cadogan,2.1,United Kingdom,,Real Estate
+236,Sulaiman Al Rajhi,2.1,Saudi Arabia,,Finance
+237,Xu Shugen,2.001883,China,"Construction, mining machinery",Manufacturing
+238,Wong Luen Hei,2.000271,China,Building materials,Manufacturing
+239,"""Robert E """"Ted"""" Turner""",2,United States,,Media
+240,Pallonji Mistry,2,India,,Construction &#38; Engineering
+241,Patrick McGovern,2,United States,,Media
+242,Rahmi Koc,2,Turkey,,
+243,Amos Hostetter,2,United States,,Media
+244,Abdul Aziz Al Ghurair,2,United Arab Emirates,,Finance
+245,Zhao Tao,1.987212,Singapore,Pharmaceuticals,Healthcare
+246,Wu Yingming,1.949942,China,Batteries,Energy
+247,Yu Lili,1.944292,China,Electronic components,Manufacturing
+248,Wu Shaoxun,1.936173,China,Wine,Food & Beverage
+249,Klaus Tschira,1.9,Germany,,Software
+250,Donald Trump,1.9,United States,,Real Estate
+251,Glen Taylor,1.9,United States,,
+252,Lucio Tan,1.9,Philippines,,
+253,Clemmie Spangler Jr,1.9,United States,,Investments
+254,Thomas Schmidheiny,1.9,Switzerland,,Construction &#38; Engineering
+255,Richard Rainwater,1.9,United States,,Finance
+256,Ralph Lauren,1.9,United States,,Apparel
+257,Otto Happel,1.9,Germany,,Construction &#38; Engineering
+258,Donald Hall,1.9,United States,,Manufacturing
+259,Zadik Bino & family,1.848282,Israel,"Banking, oil",Diversified
+260,Zhu Zhaojiang,1.8093240000000002,China,Smartphones,Manufacturing
+261,Ye Xiaoping,1.808508,China,Pharmaceuticals,Healthcare
+262,Samuel Zell,1.8,United States,,Real Estate
+263,Wan-Tsai Tsai,1.8,Taiwan,,Finance
+264,Ferit Sahenk,1.8,Turkey,,Finance
+265,Vladimir Potanin,1.8,Russia,,
+266,Wallace McCain,1.8,Canada,,Food and Beverage
+267,Frank Lowy,1.8,Australia,,Real Estate
+268,Jess Jackson,1.8,United States,,Food
+269,Charles Butt,1.8,United States,,Fashion and Retail
+270,Kunio Busujima,1.8,Japan,,
+271,Herbert Allen,1.8,United States,,Finance
+272,S. Daniel Abraham,1.8,United States,,Food and Beverage
+273,Yin Yee Lee,1.795665,China,Glass,Manufacturing
+274,Xiang Guangming & family,1.7794469999999998,China,Waste disposal,Manufacturing
+275,Xu Yingzhuo,1.763084,China,Agribusiness,Food & Beverage
+276,Zhang Liguo,1.762549,China,skincare,Manufacturing
+277,Xu Chuanhua & family,1.719644,China,"Chemicals, logistics",Manufacturing
+278,Zbigniew Juroszek & family,1.704685,Poland,"Real estate, gambling",Diversified
+279,Dennis Washington,1.7,United States,,Investments
+280,Takemitsu Takizaki,1.7,Japan,,Manufacturing
+281,Haim Saban,1.7,United States,,Media
+282,Kenneth Morrison,1.7,United Kingdom,,Retail
+283,Rosalia Mera,1.7,Spain,,Retail
+284,Clayton Mathile,1.7,United States,,Food
+285,Peter Kellogg,1.7,United States,,Finance
+286,Steve Jobs,1.7,United States,,Technology
+287,H. Wayne Huizenga,1.7,United States,,Investments
+288,Richard DeVos,1.7,United States,,
+289,Paul Desmarais,1.7,Canada,,
+290,Yu-tung Cheng,1.7,Hong Kong,,Real Estate
+291,Richard Branson,1.7,United Kingdom,,Shipping
+292,Alberto Bailleres,1.7,Mexico,,
+293,Giorgio Armani,1.7,Italy,,Apparel
+294,Gunter Herz,1.7,Germany,,Retail
+295,Xie Juhua & family,1.680353,China,Pharmaceuticals,Healthcare
+296,Zhang Xiaojuan,1.6746269999999999,China,Logistics,Logistics
+297,Yan Zhi,1.672868,China,Real estate,Real Estate
+298,Xue Xiangdong & family,1.653293,China,Software,Technology
+299,Wu Zhigang & family,1.651602,China,Bakery chain,Food & Beverage
+300,Zhang Gongyun,1.62853,China,Tyre manufacturing machinery,Manufacturing
+301,Yeh Kuo-I,1.6257409999999999,Taiwan,Manufacturing,Manufacturing
+302,Zhou Yahui,1.62439,China,online games,Media & Entertainment
+303,Steven Udvar-Hazy,1.6,United States,,
+304,Hans Riegel,1.6,Germany,,Food
+305,Mikhail Prokhorov,1.6,Russia,,
+306,Gregorio Perez Companc,1.6,Argentina,,
+307,Sammy Ofer,1.6,Israel,,Logistics
+308,Willi & Isolde Liebherr,1.6,Switzerland,,Construction & Engineering
+309,Lee Seng Wee,1.6,Singapore,,
+310,Ananda Krishnan,1.6,Malaysia,,
+311,Bradley Hughes,1.6,United States,,
+312,Daniela Herz,1.6,Germany,,Retail
+313,Roberto Hernandez Ramirez,1.6,Mexico,,Finance
+314,Terry Gou,1.6,Taiwan,,
+315,Alec Gores,1.6,United States,,Finance
+316,Doris Fisher,1.6,United States,,Apparel
+317,Zhang Shilong & family,1.5890840000000002,China,Semiconductor,Technology
+318,Zhou Jian,1.586756,China,robotics,Technology
+319,Yuan Zhongxue,1.560548,China,Tires,Manufacturing
+320,Wu Yulan,1.55331,China,Pharmaceuticals,Healthcare
+321,Yasuhiro Fukushima,1.550362,Japan,Video games,Media & Entertainment
+322,Wu Lanlan & family,1.544635,China,Packaging,Manufacturing
+323,Yi Dasheng,1.536313,China,Conglomerate,Diversified
+324,Yu Qibing & family,1.534539,China,Glass,Manufacturing
+325,Yang Xuegang,1.528912,China,Coking,Manufacturing
+326,Yang Ying & family,1.527492,China,pharmaceuticals,Healthcare
+327,Yang Qiumei,1.519636,Hong Kong,Software,Technology
+328,Yuri Shefler,1.506269,Russia,Alcohol,Food & Beverage
+329,Xu Zhenhua,1.5,China,Online games,Media & Entertainment
+330,Vladimir Yevtushenkov,1.5,Russia,,
+331,Albert von Thurn und Taxis,1.5,Germany,,
+332,John Sall,1.5,United States,,Technology
+333,Leng Chan Quek,1.5,Malaysia,,Finance
+334,John Malone,1.5,United States,,Media
+335,Herbert Kohler,1.5,United States,,Manufacturing
+336,Daryl Katz,1.5,Canada,,Retail
+337,Charles Johnson,1.5,United States,,Finance
+338,Ryoichi Jinnai,1.5,Japan,,Finance
+339,Wolfgang Herz,1.5,Germany,,Retail
+340,Michael Herz,1.5,Germany,,Retail
+341,Alfredo Harp Helu,1.5,Mexico,,Finance
+342,Tom Gores,1.5,United States,,Finance
+343,Thomas Frist Jr,1.5,United States,,Health care
+344,Stanley Druckenmiller,1.5,United States,,Finance
+345,Oleg Deripaska,1.5,Russia,,Manufacturing
+346,Ronald Burkle,1.5,United States,,Food
+347,Mohammed Al Amoudi,1.5,Saudi Arabia,,Oil
+348,Yao Kuizhang,1.48797,China,Beverages,Food & Beverage
+349,Yasuhisa Ito,1.481955,Japan,Retail,Fashion & Retail
+350,Yusaku Maezawa,1.452704,Japan,Online retail,Technology
+351,Xie Bingkun & family,1.4352639999999999,China,Pearlescent pigments,Fashion & Retail
+352,Hiroshi Yamauchi,1.4,Japan,,Software
+353,Richard Schulze,1.4,United States,,Retail
+354,Miuccia Prada,1.4,Italy,,Business
+355,David Murdock,1.4,United States,,Investments
+356,George Mitchell,1.4,United States,,Oil
+357,Eliodoro Matte,1.4,Chile,,
+358,Bernard Marcus,1.4,United States,,Fashion and Retail
+359,Mary Alice Dorrance Malone,1.4,United States,,Food and Beverage
+360,E. Stanley Kroenke,1.4,United States,,Retail
+361,Michael Krasny,1.4,United States,,
+362,Bruce Kovner,1.4,United States,,Finance
+363,Sheldon Adelson,1.4,United States,,
+364,Yu Peidi,1.398811,Hong Kong,Real estate,Real Estate
+365,Ziv Aviram,1.3929719999999999,Israel,Automotive technology,Automotive
+366,Yoshiaki Yoshida,1.392475,Japan,Cosmetics,Fashion & Retail
+367,Wu Zhongyi,1.377019,China,electronics,Technology
+368,Zeng Kaitian,1.342691,China,Online games,Technology
+369,Zhong Sheng Jian,1.3255329999999999,Singapore,Real estate,Real Estate
+370,Zhou Chengjian,1.325318,China,Fashion retail,Fashion & Retail
+371,Zhang Wenzhong,1.3201120000000002,China,Supermarkets,Fashion & Retail
+372,Zeng Chaoyi,1.319218,China,Aluminum products,Manufacturing
+373,Wu Xushun & family,1.31179,China,Internet,Diversified
+374,Cho Yaw Wee,1.3,Singapore,,Finance
+375,George Roberts,1.3,United States,,Finance
+376,Steven Rales,1.3,United States,,Manufacturing
+377,Mitchell Rales,1.3,United States,,Manufacturing
+378,Robert McNair,1.3,United States,,Oil
+379,Henry Kravis,1.3,United States,,Finance
+380,Alicia Koplowitz,1.3,Spain,,Investments
+381,David Duffield,1.3,United States,,
+382,Mark Cuban,1.3,United States,,
+383,Jean Coutu,1.3,Canada,,Retail
+384,Din Hwa Chen,1.3,Hong Kong,,Real Estate
+385,Dhanin Chearavanont,1.3,Thailand,,Agriculture
+386,Martin &#38; Olivier Bouygues,1.3,France,,
+387,Vagit Alekperov,1.3,Russia,,Oil
+388,Zhong Ruonong & family,1.299603,China,Electronics,Manufacturing
+389,Yuri Karptsov,1.295967,Russia,Retail,Fashion & Retail
+390,Xu Zhihan,1.289637,China,Electronics,Technology
+391,Youssef Mansour,1.287,Egypt,Diversified,Diversified
+392,Wu Chung-yi,1.280874,Taiwan,Manufacturing,Manufacturing
+393,Zhang Yin,1.268016,China,Paper manufacturing,Manufacturing
+394,Yao Hsiao Tung,1.2672780000000001,Singapore,Manufacturing,Manufacturing
+395,Zsolt Felcsuti,1.257084,Hungary,Manufacturing,Manufacturing
+396,Zachary Stern,1.250698,United States,Liquor,Food & Beverage
+397,Zhang Keqiang,1.248225,China,Real estate,Real Estate
+398,Xue Jiping,1.243036,China,Cable,Telecom
+399,Zhao Hongfei,1.2427940000000002,China,Software,Technology
+400,Yasuhide Uno,1.2144169999999999,Japan,Payment services,Technology
+401,Zong Yanmin,1.204693,China,Semiconductor materials,Manufacturing
+402,Yinon Costica,1.2,Israel,Security startup,Technology
+403,Robert Ziff,1.2,United States,,Investments
+404,Dirk Ziff,1.2,United States,,Investments
+405,Daniel Ziff,1.2,United States,,Investments
+406,Henry Sy,1.2,Philippines,,
+407,Ronda Stryker,1.2,United States,,Health Care
+408,Jon Stryker,1.2,United States,,Health Care
+409,Peter Sperling,1.2,United States,,Service
+410,John Sperling,1.2,United States,,Service
+411,John Sobrato,1.2,United States,,Real Estate
+412,Thomas Siebel,1.2,United States,,
+413,Bruno Schroder,1.2,United Kingdom,,Finance
+414,Emanuele (Lino) Saputo,1.2,Canada,,Food
+415,Marilyn Carlson Nelson,1.2,United States,,
+416,Charles Munger,1.2,United States,,Finance
+417,Alexey Mordashov,1.2,Russia,,Metals & Mining
+418,George Lindemann,1.2,United States,,Investments
+419,Richard Kinder,1.2,United States,,Oil
+420,Rupert Johnson,1.2,United States,,Finance
+421,Joseph Jamail,1.2,United States,,
+422,B. Thomas Golisano,1.2,United States,,
+423,Barbara Carlson Gage,1.2,United States,,
+424,Philippe Foriel-Destezet,1.2,France,,
+425,Bennett Dorrance,1.2,United States,,Food and Beverage
+426,Ennio Doris,1.2,Italy,,Insurance
+427,Julio Bozano,1.2,Brazil,,Finance
+428,Lee Bass,1.2,United States,,Oil
+429,Zhou Zongwen & family,1.198405,China,Jewelry,Fashion & Retail
+430,Zeng Chaolin,1.1883540000000001,China,Aluminium,Metals & Mining
+431,Xu Xudong & family,1.182186,China,Auto parts,Automotive
+432,Xiang Wenbo,1.1807539999999999,China,Manufacturing,Manufacturing
+433,Yasseen Mansour,1.18,Egypt,Diversified,Diversified
+434,Zhang Hongwei,1.1758199999999999,China,"Oil, banking",Diversified
+435,Yury Maksimov,1.175144,Russia,IT,
+436,Zhang Xuansong,1.174863,China,Supermarkets,Fashion & Retail
+437,Zhang Changhong,1.173692,China,financial information service,Technology
+438,Zhang Xin,1.171176,China,Real estate,Real Estate
+439,Zhang Jianguo & family,1.1670209999999999,China,energy,Energy
+440,Yu Faxiang,1.163018,China,"Tourism, cultural industry",Media & Entertainment
+441,Zhou Liangzhang & family,1.1622260000000002,China,electrical equipment,Manufacturing
+442,Zhuo Jun,1.1516330000000001,Hong Kong,Printed circuit boards,Manufacturing
+443,Xiu Laigui,1.117318,China,Pharmaceuticals,Healthcare
+444,Zhang Yubai,1.1099290000000002,China,Wine,Food & Beverage
+445,Mortimer Zuckerman,1.1,United States,,Real Estate
+446,Chaleo Yoovidhya,1.1,Thailand,,Food and Beverage
+447,Joop van den Ende,1.1,Netherlands,,Media
+448,Pat Stryker,1.1,United States,,Health Care
+449,Friede Springer,1.1,Germany,,Media
+450,Masayoshi Son,1.1,Japan,,Software
+451,Frederick Smith,1.1,United States,,Logistics
+452,Evgeny (Eugene) Shvidler,1.1,Russia,,Oil
+453,Henry Samueli,1.1,United States,,
+454,Richard Peery,1.1,United States,,Real Estate
+455,Henry Nicholas,1.1,United States,,
+456,John Morgridge,1.1,United States,,
+457,Billy Joe (Red) McCombs,1.1,United States,,Media
+458,Peter Lewis,1.1,United States,,Logistics
+459,Joseph Lewis,1.1,United Kingdom,,Finance
+460,Klaus-Michael Kuhne,1.1,Germany,,Shipping
+461,Esther Koplowitz,1.1,Spain,,Construction &#38; Engineering
+462,William Kellogg,1.1,United States,,Fashion and Retail
+463,James Jannard,1.1,United States,,Apparel
+464,Robert Holding,1.1,United States,,Oil
+465,Hans-Werner Hector,1.1,Germany,,
+466,Jonathan Harmsworth,1.1,United Kingdom,,Media
+467,Christopher Goldsbury,1.1,United States,,Food and Beverage
+468,Adi Godrej,1.1,India,,Manufacturing
+469,Heinz-Horst Deichmann,1.1,Germany,,Apparel
+470,Emilio Botin,1.1,Spain,,Finance
+471,Otto Beisheim,1.1,Germany,,Retail
+472,John Arrillaga,1.1,United States,,Real Estate
+473,Xu Wanmao,1.086754,China,Education,Service
+474,Zan Shengda,1.0849280000000001,China,Diversified,Diversified
+475,Yang Tingdong,1.069451,China,Brewery,Food & Beverage
+476,Wu Bo,1.0679049999999999,China,Machinery,Manufacturing
+477,Yang Yuanqing,1.0656320000000001,China,computers,Technology
+478,Wu Yonghua,1.063578,China,Apparel,Fashion & Retail
+479,Yu Kai,1.048484,China,Autonomous driving,Technology
+480,Zhang Xuezheng,1.047097,China,Telecom,Technology
+481,Wu Xiaoge,1.040617,China,Battery components,Manufacturing
+482,Zhu Yiming,1.037172,China,Semiconductors,Technology
+483,Zhao Tongtong,1.02758,Canada,Hotels,Service
+484,Zhang Xuewu,1.020621,China,Snacks,Food & Beverage
+485,Xu Shijun & family,1.016754,China,Manufacturing,Manufacturing
+486,Yoichi Erikawa,1.009327,Japan,Video games,Media & Entertainment
+487,Zheng Fan,1.0061849999999999,China,electric vehicles,Automotive
+488,Xu Yuejuan,1.0034969999999999,China,Petro Fibre,Manufacturing
+489,Samuel Wyly,1,United States,,Investments
+490,Oprah Winfrey,1,United States,,Media
+491,Dean White,1,United States,,
+492,Albert Ueltschi,1,United States,,
+493,Kenny Troutt,1,United States,,
+494,Harold Simmons,1,United States,,Investments
+495,Walter Scott,1,United States,,
+496,Richard Scaife,1,United States,,Finance
+497,Luis Carlos Sarmiento,1,Colombia,,Finance
+498,Ricardo Salinas Pliego,1,Mexico,,
+499,Lily Safra,1,Brazil,,Finance
+500,Johann Rupert,1,South Africa,,Retail
+501,Kazuo Okada,1,Japan,,
+502,Shiv Nadar,1,India,,
+503,Drayton McLane,1,United States,,Retail
+504,Terence (Terry) Matthews,1,United Kingdom,,Telecom
+505,Dietrich Mateschitz,1,Austria,,Beverages
+506,Richard Marriott,1,United States,,
+507,Richard Li,1,Hong Kong,,
+508,Morris Kahn,1,Israel,,Investments
+509,William Randolph Hearst,1,United States,,Media
+510,Stein Erik Hagen,1,Norway,,Retail
+511,Albert Frere,1,Belgium,,Investments
+512,"""Archie Aldis """"Red"""" Emmerson""",1,United States,,Real Estate
+513,John de Mol,1,Netherlands,,Media
+514,Scott Cook,1,United States,,
+515,Turgay Ciner,1,Turkey,,
+516,Vladimir Bogdanov,1,Russia,,Oil
+517,Carl Berg,1,United States,,Real Estate
+518,Pierre Bellon,1,France,,
+519,Xiong Xiaochuan,0.983955,China,Medical devices,Healthcare
